@@ -1,0 +1,1154 @@
+<!DOCTYPE HTML>
+<HTML lang=en>
+    <HEAD>
+        <title>小宝招商 全国第一招商众包网络平台 利伊享 日思夜享数据科技有限公司  </title>
+        <!--<META name=GENERATOR content="MSHTML 9.00.8112.16636"/>-->
+        <META http-equiv="X-UA-Compatible" content="IE=9" >
+        <!--<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/aa1ade851fb06f625df7b62a7df29203/allmobilize.min.js"></script><meta http-equiv="Cache-Control" content="no-transform" />-->
+        <LINK rel=alternate href="#" media=handheld><!--<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/aa1ade851fb06f625df7b62a7df29203/allmobilize.min.js"></script>-->
+        <META content="text/html; charset=utf-8" http-equiv=Content-Type>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <META name=author content="日思夜享 小宝招商,杭州利伊享数据科技有限公司"/>
+        <meta name="keywords" content="招商外包,招商服务,零费用招商,网络招商,业务员,兼职,众包招商,第一招商 " />
+        <meta name="description" content="小宝招商，全国最大的移动互联网招商外包平台，汇聚天下百万业务员，快准低成本帮助企业招到全国客户，先期零费用，精准招商，按成果付费，担保交易，免费宣传" />
+
+        <META content=no-transform http-equiv=cache-control>
+        <link type="image/x-icon" href="/favicon.ico" rel="icon">
+        <link type="image/x-icon" href="/favicon.ico" rel="shortcut icon">
+        <LINK rel=stylesheet type=text/css href="css/home.css">
+        <LINK rel=stylesheet type=text/css href="css/index.css">
+
+<!--        <LINK rel=stylesheet type=text/css href="css/index1.css">-->
+<!--        <LINK rel=stylesheet type=text/css href="css/bootstrap.css">-->
+        <SCRIPT type=text/javascript src="js/jquery-1.11.2.min.js"></SCRIPT>
+        <SCRIPT type=text/javascript src="js/jquery.easing.js"></SCRIPT>
+        <SCRIPT type=text/javascript src="js/downtime.js"></SCRIPT>
+        <SCRIPT type=text/javascript src="js/jquery.nav.js"></SCRIPT>
+<!--        <SCRIPT src="js/mobilego.js"></SCRIPT>-->
+        <!--<script src="js/detector.js"></script>-->
+        <script>
+           
+            //客户端跳转
+            function browserRedirect() {
+                var sUserAgent = navigator.userAgent.toLowerCase();
+                var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
+                var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+                var bIsMidp = sUserAgent.match(/midp/i) == "midp";
+                var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+                var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
+                var bIsAndroid = sUserAgent.match(/android/i) == "android";
+                var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
+                var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
+
+                if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {
+                    window.location.href = 'http://m.51lick.com';
+                } else {
+
+                }
+
+            }
+            browserRedirect();
+
+            $(function(){
+                $(window).scroll(function(){
+                    if($(window).scrollTop()>100){
+                        $("#side-bar .gotop").fadeIn();
+                    }
+                    else{
+                        $("#side-bar .gotop").hide();
+                    }
+                });
+                $("#side-bar .gotop").click(function(){
+                    $('html,body').animate({'scrollTop':0},500);
+                });
+            });
+
+        </script>
+        <style>
+            .morecontent{width:100px;text-align:center;color:#fff;margin-top:20px;font-size:12px}
+            .morecontent  li{line-height:35px;width:100%;height:40px;background-color: #7B7A7B}
+            .morecontent  li:hover{background-color:#504E4F;color: #fff}
+        </style>
+    </HEAD>
+    <BODY style="_background-attachment: fixed; _background-image: url(about:blank); -webkit-text-size-adjust: none">
+        <DIV style="HEIGHT: 70px"></DIV>
+        <!----------------------------点击进入二级大图不需要----------隐藏--------------------------->
+<!--        <DIV class="header-banner banner-c">
+            <A class=header-c-left  href="http://www.fxiaoke.com/fc.html"></A>
+            <A class=header-c-right href="http://www.fxiaoke.com/fc.html"></A>
+            <A class=header-c-left  href="#"></A>
+            <A class=header-c-right href="#"></A>
+        </DIV>-->
+        <DIV class="header-banner banner-c-min">
+            <div class="fc-main"> </div>
+<!--            <DIV class=header-c-left><a href="http://eqxiu.com/s/z7ubX5xV?from=groupmessage&isappinstalled=1"></a></DIV>
+            <DIV class=header-c-right></DIV>-->
+        </DIV>
+<!--        <DIV style="DISPLAY: none" class="header-banner banner-price">                       ----------------付费功能----------隐藏-------------------------
+            <A  class=header-price href="http://www.fxiaoke.com/channel.html"></A>
+        </DIV>-->
+        <DIV class=inner-box>
+            <DIV id=inner class=first>
+                <DIV class=hot-event>
+                    <DIV style="DISPLAY: block" class="event-item event-item1"></DIV>
+                    <DIV style="DISPLAY: none" class="event-item event-item2"></DIV>
+                    <DIV style="DISPLAY: none" class="event-item event-item3"></DIV>
+                    <DIV style="DISPLAY: none" class="event-item event-item4"></DIV>
+                    <DIV class=switch-tab>
+                        <A class=current onclick="return false;" href="#">1</A> 
+                        <A onclick="return false;" href="#">2</A> 
+                        <A onclick="return false;" href="#">3</A> 
+                        <A onclick="return false;" href="#">4</A> 
+                    </DIV><!--add_v2-->
+                    <DIV class=event-tagpadding></DIV>
+                    <DIV class=event-tagwrapper>
+                        <DIV class=event-tag>
+                            <DIV>
+                                <H2 class="event-tag-1 event-tag-num">
+                                    <IMG alt="" src="img/index_banner_texta.png">
+                                </H2>
+                                <!--<P class="event-tag-1 event-tag-num">Wisdom marketing platform, the country's first marketing network platform</P>-->
+                                <H2 class="event-tag-2 event-tag-num">
+                                    <IMG alt="" src="img/index_banner_textb.png">
+                                </H2>
+                                <!--<P class="event-tag-2 event-tag-num">Break through the bottleneck,increase sales performance</P>-->
+                                <H2 class="event-tag-3 event-tag-num">
+                                    <IMG alt="" src="img/index_banner_textc.png">
+                                </H2>
+                                <!--<P class="event-tag-3 event-tag-num">Fast + Accurate + Zero  Find customers nationwide</P>-->
+                                <H2 class="event-tag-4 event-tag-num">
+                                    <IMG alt="" src="img/index_banner_textd.png">
+                                </H2>
+                                <!--<P class="event-tag-4 event-tag-num">Fast + Low cost  Establish a national brand reputation</P>-->
+                            </DIV>
+<!--                            <A id=mnty_4_tj class="event-tag-la enter-demo-link" onclick="return false;" href="javascript:void(0)">模拟体验</A> ---------------暂时不需要此功能-------------------
+                            <A id=register_now_4_tj class="event-tag-lb enter-reg-link" href="javascript:void(0)">立即注册</A> -->
+                        </DIV>
+                    </DIV><!--add_v2-->
+                </DIV>
+            </DIV>
+        </DIV>
+            <!--           --------------------电脑端注册----------------------
+                        <div class="body-action-panel">
+                            <a href="javascript:;" class="enter-demo-link"></a>
+                            <a href="http://www.fxiaoke.com/xiaoke/pc/reg.html" class="enter-reg-link"></a>
+                        </div>
+        --><!-- banner 结束 -->
+        
+        <DIV class=second>
+            <H4 style="PADDING-BOTTOM: 25px; PADDING-TOP: 23px">小宝智慧营销   全国第一营销网络平台</H4>
+            <H6 style="PADDING-BOTTOM: 10px; PADDING-TOP: 1px">系统解决企业招商、运营、推广三大难题</H6>
+            <DIV class=xuanxiangka>
+                <DIV class=xuanxiangka1>
+                    <H5 id=region class=xuanxiangkatit>
+                        <A class=tabOn href="productone.html">智慧招商</A>
+                        <A href="operation.html">智慧运营</A>
+                        <A href="generalize.html"> 智慧推广</A>
+<!--                    <A href="http://www.fxiaoke.com/#" target=_blank>协同支持</A> 
+                        <A href="http://www.fxiaoke.com/#" target=_blank>企业微信 </A>-->
+                    </H5>
+                </DIV>
+                <DIV class=clear></DIV>
+                <DIV class="content on"><!--智慧招商 start-->
+                    <H3 class=saleqh>快、准、零投入，找到全国客户</H3>
+                    <UL class=salenr>
+                        <LI class=saleneir>
+                            <A title=查看详情 href="productone.html">
+                                <IMG src="img/xiaobaoone1.png">
+                                <SPAN class="salext saleyellow">兼职众包，先期零投入</SPAN> 
+                            </A>
+                        </LI>
+                        <LI class=saleneir>
+                            <A title=查看详情 href="productone.html">
+                                <IMG src="img/xiaobaoone2.png"> 
+                                <SPAN class="salext salebule">精准覆盖，全国任你选</SPAN> 
+                            </A>
+                        </LI>
+                        <LI class=saleneir>
+                            <A title=查看详情 href="productone.html">
+                                <IMG src="img/xiaobaoone3.png"> 
+                                <SPAN class="salext salered">成果买单，无效不付款</SPAN>
+                            </A> 
+                        </LI>
+                        <LI class=saleneir>
+                            <A title=查看详情 href="productone.html">
+                                <IMG src="img/xiaobaoone4.png"> 
+                                <SPAN class="salext salegreen">担保交易，货款安全</SPAN> 
+                            </A>
+                        </LI>
+                        <LI class=saleneir>
+                            <A title=查看详情 href="productone.html">
+                                <IMG src="img/xiaobaoone5.png"> 
+                                <SPAN class="salext salegreen">免费宣传，刷爆社交圈</SPAN> 
+                            </A>
+                        </LI>
+                    </UL>
+                </DIV><!--智慧招商 end-->
+                <DIV class=content><!--智慧运营 start-->
+                    <H3 class=saleqh>突破运营瓶颈，直接提升业绩 </H3>
+                    <UL class=salenr>
+                        <LI class=saleneir>
+                            <A title=查看详情 href="producttwo.html">
+                                <IMG src="img/xiaobaotwo1.png"> 
+                                <SPAN class="salext salebule">全球领先，智赢市场</SPAN> 
+                            </A>
+                        </LI>
+                        <LI class=saleneir>
+                            <A title=查看详情 href="producttwo.html">
+                                <IMG src="img/xiaobaotwo2.png"> 
+                                <SPAN class="salext saleyellow">卓越平台，坚如磐石</SPAN> 
+                            </A>
+                        </LI>
+                        <LI class=saleneir>
+                            <A title=查看详情 href="producttwo.html">
+                                <IMG src="img/xiaobaotwo3.png"> 
+                                <SPAN class="salext salegreen">多类渠道，全面对接</SPAN> 
+                            </A>
+                        </LI>
+                        <LI class=saleneir>
+                            <A title=查看详情 href="producttwo.html">
+                                <IMG src="img/xiaobaotwo4.png"> 
+                                <SPAN class="salext salered">社交办公，高效协同</SPAN> 
+                            </A>
+                        </LI>
+                        <LI class=saleneir>
+                            <A title=查看详情 href="producttwo.html">
+                                <IMG src="img/xiaobaotwo5.png"> 
+                                <SPAN class="salext salered">渠道业绩，精细掌控</SPAN> 
+                            </A>
+                        </LI>
+                    </UL>
+                </DIV><!--智慧运营  end-->
+                <DIV class=content style="width: 1200px;"><!--智慧推广  start-->
+                    <H3 class=saleqh1>快速低成本，建立全国口碑
+                        <!--<A class=saleckxq href="#">查看详情</A>-->
+                    </H3>
+                    <UL class=salenr style="margin-left:2px;width: 1200px;">
+                        <LI class=saleneir1>
+                            <A title=查看详情 href="productthree.html">
+                                <IMG src="img/xiaobaothree1.png"> 
+                                <SPAN class="salext salegreen">海量群体，精准活跃</SPAN>
+                            </A> 
+                        </LI>
+                        <LI class=saleneir1>
+                            <A title=查看详情 href="productthree.html">
+                                <IMG src="img/xiaobaothree2.png"> 
+                                <SPAN class="salext salered">多维社交，智能渗透</SPAN> 
+                            </A>
+                        </LI>
+                        <LI class=saleneir1>
+                            <A title=查看详情 href="productthree.html">
+                                <IMG src="img/xiaobaothree3.png"> 
+                                <SPAN class="salext salebule">悬赏模式，性价最高</SPAN>
+                            </A> 
+                        </LI>
+                        <LI class=saleneir1>
+                            <A title=查看详情 href="productthree.html">
+                                <IMG src="img/xiaobaothree4.png"> 
+                                <SPAN class="salext saleyellow">病毒传播，口碑神话</SPAN> 
+                            </A>
+                        </LI>
+                        <LI class=saleneir1>
+                            <A title=查看详情 href="productthree.html">
+                                <IMG src="img/xiaobaothree5.png"> 
+                                <SPAN class="salext saleyellow">一键转发，全民参与</SPAN> 
+                            </A>
+                        </LI>
+                        <LI class=saleneir1>
+                            <A title=查看详情 href="productthree.html">
+                                <IMG src="img/xiaobaothree6.png"> 
+                                <SPAN class="salext saleyellow">智能匹配，优先推送</SPAN> 
+                            </A>
+                        </LI>
+                    </UL>
+                </DIV><!--智慧推广   end-->
+               
+                <DIV class=clear></DIV>      
+            </DIV>   
+        </DIV>
+        <DIV class=third>
+            <H4 
+                style="PADDING-BOTTOM: 70px; font-size: 40px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #fff; PADDING-TOP: 85px">整合互联网+应用 颠覆传统营销 打造核心优势</H4>
+            <DL class=spbf>
+               <dt  onclick="show('pop','http://player.youku.com/player.php/sid/XOTQ1MTM3OTI4/v.swf')">
+                   <a href="javascript:;"><img src="img/vidio.png"  /></a>
+               </dt>
+                <DD>
+<!--                    <UL class=spbfn>
+                        <LI 
+                            onclick="show('pop', 'http://v.ku6vms.com/phpvms/player/html/vid/bO0XDkQg9Ka3bAW_/style/gRiQ5K9giiL4EUzq/')">
+                            <A href="javascript:;">
+                                <IMG src="img/fxiaokesp2.png">
+                            </A> 
+                        </LI>
+                        <LI 
+                            onclick="show('pop', 'http://v.ku6vms.com/phpvms/player/html/vid/pprW2BYMEW8dPcFD/style/gRiQ5K9giiL4EUzq/')">
+                            <A href="javascript:;">
+                                <IMG src="img/fxiaokesp3.png">
+                            </A> 
+                        </LI>
+                        <LI 
+                            onclick="show('pop', 'http://v.ku6vms.com/phpvms/player/html/vid/KG3QDx48ljMTKOaa/style/gRiQ5K9giiL4EUzq/')">
+                            <A href="javascript:;">
+                                <IMG src="img/fxiaokesp4.png">
+                            </A> 
+                        </LI>
+                        <LI 
+                            onclick="show('pop', 'http://v.ku6vms.com/phpvms/player/html/vid/GQvJhkNaR8V-Pey3/style/gRiQ5K9giiL4EUzq/')">
+                            <A href="javascript:;">
+                                <IMG src="img/fxiaokesp5.png">
+                            </A> 
+                        </LI>
+                        <LI 
+                            onclick="show('pop', 'http://v.ku6vms.com/phpvms/player/html/vid/wyK1r2V97Gk-ycL1/style/gRiQ5K9giiL4EUzq/')">
+                            <A href="javascript:;">
+                                <IMG src="img/fxiaokesp6.png">
+                            </A> 
+                        </LI>
+                        <LI 
+                            onclick="show('pop', 'http://v.ku6vms.com/phpvms/player/html/vid/-TdtSwCUdR83nKlb/style/gRiQ5K9giiL4EUzq/')">
+                            <A href="javascript:;">
+                                <IMG src="img/fxiaokesp7.png">
+                            </A>
+                        </LI>
+                        <LI 
+                            onclick="show('pop', 'http://player.youku.com/player.php/sid/XODAxMDEzMTE2/v.swf')">
+                            <A href="javascript:;">
+                                <IMG src="img/fxiaokesp8.jpg">
+                            </A> 
+                        </LI>
+                        <LI 
+                            onclick="show('pop', 'http://player.youku.com/player.php/sid/XNzU0NjYyNjIw/v.swf')">
+                            <A href="javascript:;">
+                                <IMG src="img/fxiaokesp9.jpg"></A> 
+                        </LI>
+                        <LI 
+                            onclick="show('pop', 'http://player.youku.com/player.php/sid/XNzU0Njg4ODQ0/v.swf')">
+                            <A href="javascript:;">
+                                <IMG src="img/fxiaokesp10.jpg">
+                            </A> 
+                        </LI>
+                    </UL>-->
+                    <DIV class=clear></DIV>
+                    <DIV style="DISPLAY: none" id=pop class=pop>
+                        <DIV class=pop_head>
+                            <A onclick="hide('pop')" href="javascript:void(0);">关闭</A> 
+                        </DIV>
+                        <DIV id=spw></DIV>    
+                    </DIV>
+                </DD>
+            </DL>
+            <DIV class=clear></DIV>
+            <DIV class=xiaobaospn>
+<!--                <P class=xiaobaospnbt>
+                    <A href="http://www.fxiaoke.com/fxiaokeuser1.html">查看更多用户评价</A>
+                </P>-->
+                <IMG style="MARGIN-TOP: 150px" alt="" src="img/xiaobao_c.jpg"> <!--<img src="image/fxiaokesplogo.png" style=" margin-top:70px;"/> <img src="image/fxiaokesplogo1.png" />-->
+            </DIV>
+        </DIV>
+        <!------------------------------隐藏  新闻报道------------------------------->
+        <DIV class=fourth  style="display: none;">
+            <H4 
+                style="PADDING-BOTTOM: 72px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(image/fxiaokemtlogo1.png) no-repeat center 170px; COLOR: #ff8b1e; PADDING-TOP: 85px">100多家媒体持续报道，为未来而来
+            </H4>
+            <DIV class=media>
+                <P class=xiaobaospnbt>
+                    <A href="http://www.fxiaoke.com/medianews.html">查看更多报道</A>
+                </P>
+                <DIV style="MARGIN-BOTTOM: 32px; MARGIN-LEFT: 14px" class="mediac mediac1">
+                    <DIV style="BACKGROUND: url(image/fxiaokeindex_tabtop1.png) no-repeat" class=mediactop></DIV>
+                    <DIV style="POSITION: relative" class=mediaccenter>
+                        <P style="POSITION: absolute; TOP: -24px" class=mediaccenterns>纷享销客刚刚宣布，公司已经完成了由北极光创投领投的千万美元级的B轮融资。同时他们还称，其企业用户已经突破5万家——比起去年6月份A轮融资时的12000家，纷享销客的客户数在一年之内获得了4倍增长。</P>
+                        <P style="PADDING-TOP: 130px" class=mediaccenternx>《PingWest中文网》：从Yammer到Salesforce模式，为什么“纷享销客”转型了？2014-07-02
+                            <A style="PADDING-TOP: 5px" href="http://www.fxiaoke.com/medianews/medianews_20140702.html">阅读全文</A> 
+                        </P>
+                    </DIV>
+                    <DIV class=mediacbottom>
+                        <IMG src="img/xiaobaoindex_tabbottom.png">
+                    </DIV>
+                </DIV>
+                <DIV style="MARGIN-BOTTOM: 32px; PADDING-TOP: 107px" class=mediac>
+                    <DIV class=mediactop>
+                        <IMG src="img/xiaobaoindex_tabtop.png">
+                    </DIV>
+                    <DIV class=mediaccenter>
+                        <P style="HEIGHT: 176px" class=mediaccenterns>纷享销客的概念来源于BYOD，即 Bring Your Own 
+                            Device，就是员工带上自己的移动设备办公。在机场、酒店，利用 等飞机、在路上的零碎时间，用自己的手 机就把公务处理了，不受地域、设备、网络 
+                            环境的限制，在任何时间、任何地点、都可 以处理与工作相关的任何事情。 </P>
+                        <P class=mediaccenternx>《博客天下》：像用手机刷微博一样办公 2014-5-15 
+                            <A style="PADDING-TOP: 4px" href="http://www.fxiaoke.com/medianews/medianews_20140515.html">阅读全文</A> 
+                        </P>
+                    </DIV>
+                    <DIV class=mediacbottom>
+                        <IMG src="img/xiaobaoindex_tabbottom.png">
+                    </DIV>
+                </DIV>
+                <DIV style="MARGIN-BOTTOM: 32px; PADDING-TOP: 107px" class=mediac>
+                    <DIV class=mediactop>
+                        <IMG src="img/xiaobaoindex_tabtop.png">
+                    </DIV>
+                    <DIV class=mediaccenter>
+                        <P 
+                            class=mediaccenterns>打开纷享销客的界面，看上去像微博，但多了发指令、发审批、发日志以及客户管理等功能，页面上还有满足即时沟通的企信（企业微信），玩法与微信相似。就是这款销售管理软件，让销售们的困扰几乎减半。 
+                        </P>
+                        <P class=mediaccenternx>《看天下》:“没有人情的产品是短命的”——纷享销客：狼群管理术 2014-3-18 
+                            <A 
+                                style="PADDING-TOP: 0px" 
+                                href="http://www.fxiaoke.com/medianews/medianews_20140318.html">阅读全文
+                            </A> 
+                        </P>
+                    </DIV>
+                    <DIV class=mediacbottom>
+                        <IMG src="img/xiaobaoindex_tabbottom.png">
+                    </DIV>
+                </DIV>
+                <DIV style="MARGIN-LEFT: 14px" class=mediac>
+                    <DIV class=mediactop>
+                        <IMG src="img/xiaobaoindex_tabtop.png">
+                    </DIV>
+                    <DIV class=mediaccenter>
+                        <P 
+                            class=mediaccenterns>对一个中小企业的老板来讲，首先是生存，活下去才是硬道理，这个阶段最优先级的肯定是产品和销售。销售是中小企业的痛点，这是第一。 
+                        </P>
+                        <P class=mediaccenternx>《网易科技》：纷享科技CEO罗旭创业访谈：找痛点 不贪多&nbsp;&nbsp;2013-5-8 
+                            <A href="http://www.fxiaoke.com/medianews/medianews24.html">阅读全文</A> 
+                        </P>
+                    </DIV>
+                    <DIV class=mediacbottom>
+                        <IMG src="img/xiaobaoindex_tabbottom.png">
+                    </DIV>
+                </DIV>
+                <DIV class=mediac>
+                    <DIV class=mediactop>
+                        <IMG src="img/xiaobaoindex_tabtop.png">
+                    </DIV>
+                    <DIV class=mediaccenter>
+                        <P 
+                            class="mediaccenterns mediaccenterns1">但与YAMMER相比，纷享模式具有一定的本土化差异。虽然也可以作为个人沟通平台，不过纷享本身更强调员工身处该社交平台内的工作属性，注重任务的指派和团队协作，特别是销售团队协作，主要目标客户为中小企业或大公司的销售团队。 
+                        </P>
+                        <P class=mediaccenternx>《21世纪经济报道》：IDG金手指点上纷享科技&nbsp;&nbsp;2013-4-11 
+                            <A 
+                                href="http://www.fxiaoke.com/medianews/medianews22.html">阅读全文
+                            </A> 
+                        </P>
+                    </DIV>
+                    <DIV class=mediacbottom>
+                        <IMG src="img/xiaobaoindex_tabbottom.png">
+                    </DIV>
+                </DIV>
+                <DIV class=mediac>
+                    <DIV class=mediactop>
+                        <IMG src="img/xiaobaoindex_tabtop.png">
+                    </DIV>
+                    <DIV class=mediaccenter>
+                        <P style="HEIGHT: 162px" 
+                           class=mediaccenterns>“纷享”利用PC和手机，整合了传统OA、邮件、微博和即时通讯工具的功能，做到时时刻刻都能沟通工作。 </P>
+                        <P class=mediaccenternx>《商业周刊》: 老板焦虑怎么办？用企业社交网络帮他灭火&nbsp;&nbsp;2013-2-28 
+                            <A href="http://www.fxiaoke.com/medianews/medianews33.html">阅读全文</A> 
+                        </P>
+                    </DIV>
+                    <DIV class=mediacbottom>
+                        <IMG src="img/xiaobaoindex_tabbottom.png">
+                    </DIV>
+                </DIV>
+                <DIV class=clear>
+                </DIV>
+            </DIV>
+        </DIV>
+        
+<!------------------------------隐藏  下载------------------------------->
+        <DIV style="DISPLAY: none" id=tanchuk class=tanchuk>
+            <P class=tanchuk1>苹果/安卓手机编辑短信内容“
+                <SPAN class=tanchuk1s>纷享销客</SPAN>”发送至“
+                <SPAN class=tanchuk1s>12114</SPAN>”
+            </P>
+            <P class=tanchuk2>立即获取客户端下载链接，轻松又便捷</P>
+            <P class=tanchuk3>
+                <A href="http://www.fxiaoke.com/downloadsection.html">查看其它下载方式</A>
+            </P>
+        </DIV>
+<!------------------------------隐藏  下载------------------------------->
+        <DIV class=bttj style="DISPLAY: none">
+            <DIV class=bttjreg>
+                <A style="MARGIN: auto" id=bot-mob-down class=bttjanbt href="javascript:void(0);">安卓、苹果手机客户端下载</A> <!--  <a href="http://www.fxiaoke.com/StaticFiles/GetPCEntNewVersion" class="bttjanbt  bttjanbt1">Windows版电脑客户端下载 </a>--><!-- <a href="http://go.microsoft.com/fwlink/?LinkID=149156&v=5.1.10411.0" class="bttjanbt  bttjanbt1">微软Silverlight插件下载</a>  -->
+            </DIV>
+        </DIV>
+        <DIV class=footer>
+            <DIV class=bottom>
+                <UL class=bottomnav>
+                    <LI>
+                        <DL class=bottomtitle>
+                            <DT><A href="about.html">关于我们</A> </DT>
+                            <DD><A href="about.html">公司简介</A> </DD>
+                            <DD><A href="aboutone.html">品牌文化</A> </DD>
+                            <DD><A href="abouttwo.html">经营理念</A> </DD>
+                          <DD><A href="aboutthree.html">重大事件</A> </DD>
+   <!--                           <DD><A href="aboutfour.html">顾问团队</A> </DD>-->
+                        </DL>
+                    </LI>
+                    <LI>
+                        <DL class=bottomtitle>
+<!--                            <DT><A href="downloadsection.html">产品&服务</A> </DT>
+                            <DD><A href="downloadsection.html">产品介绍</A> </DD>
+                            <DD><A href="shoujishuafx.html">下载专区</A> </DD>
+                            <DD><A href="security.html">使用帮助</A> </DD>-->
+                            <DT><A href="productone.html">产品&服务</A> </DT>
+<!--                            <DT><A href="#">产品&服务</A> </DT>-->
+                            <DD><A href="productone.html">产品介绍</A> </DD>
+                            <DD><A href="shoujiapp.html">下载专区</A> </DD>
+<!--                            <DD><A href="#">下载专区</A> </DD>
+                            <DD><A href="#">使用帮助</A> </DD>-->
+                        </DL>
+                    </LI>
+
+                    <LI>
+                        <DL class=bottomtitle>
+                            <DT><A href="partner.html">合伙人体系</A> </DT>
+                            <DD><A href="partnerone.html">创业与合作</A> </DD>
+                        </DL>
+                    </LI>
+                    <LI>
+                        <DL class=bottomtitle>
+<!--                            <DT><A href="fxiaokehui.html">天地汇</A> </DT>
+                            <DD><A href="fxiaokehui.html">天地汇介绍</A> </DD>
+                            <DD><A href="fxiaokehuizx.html">如何参加</A> </DD>
+                            <DD><A href="fxiaokehuihd.html">最新活动</A> </DD>-->
+                            <DT><A href="tiandihui.html">天地汇</A> </DT>
+                            <DD><A href="tiandihui.html">天地汇介绍</A> </DD>
+                            <DD><A href="tiandihuihd.html">如何参加</A> </DD>
+<!--                            <DD><A href="#">最新活动</A> </DD>-->
+                        </DL>
+                    </LI>
+                    <LI style="BORDER-RIGHT-STYLE: none">
+                        <DL class=bottomtitle>
+                            <DT><A href="jobus.html">加入我们</A> </DT>
+                            <DD><A href="contact.html">联系我们</A> </DD>
+                            <DD><A href="jobus.html">招聘职位</A> </DD>
+                        </DL>
+                    </LI>
+                </UL>
+                <!------------------------------微博、微信------------------------------->
+                <P class=bottomgz>
+                    <IMG style="MARGIN-RIGHT: 10px" src="img/xiaobaoweixin1.jpg"> 
+                    <SPAN>+关注微信服务号</SPAN> 
+                      <IMG style="MARGIN-RIGHT: 10px; margin-left: 40px;" src="img/xiaobaoweixin2.jpg"> 
+                    <SPAN>+关注微信订阅号</SPAN> 
+                    <A href="http://weibo.com/u/5625398329?topnav=1&wvr=6&topsug=1" target="_blank">
+                        <IMG style="MARGIN: 0px 20px 0px 40px" src="img/xiaobao_wb.png">+关注微博
+                    </A>
+                </P>
+                <P 
+                    class=bottomxx>杭州利伊享数据科技有限公司<BR>公司地址：杭州拱墅区祥园路88号中国（杭州）智慧产业园三号楼六楼 &nbsp;&nbsp;&nbsp;热线电话：+86 0571 88195693
+                    <BR>Copyright © 2015. All rights reserved.&nbsp;&nbsp;&nbsp;浙ICP备15010709号
+                </P>
+            </DIV>
+        </DIV>
+<!--------------------------------------隐藏-----------------------------模拟体验 start-->
+        <DIV class=mnty-wrapper>
+            <DIV style="DISPLAY: none" class="mnty mnty-index">
+                <DIV class=mnty_head>模拟体验帐号
+                    <A class=mnty_head_close href="javascript:void(0);"></A>
+                </DIV>
+                <TABLE class="monitiyan mnty-step-1" cellSpacing=0>
+                    <TBODY>
+                        <TR class=monitiyani>
+                            <TD style="WIDTH: 208px" colSpan=2>
+                                <INPUT class="tjtyip mobile-val" value=请输入手机号码>
+                            </TD>
+                        </TR>
+                        <TR class=monitiyani>
+                            <TD style="WIDTH: 111px" colSpan=2>
+                                <INPUT class="tjtyip captcha-val" value=请输入右侧字符>
+                                <IMG class="monitiyaniimc captcha-img" src="img/clear.gif">
+                            </TD>
+                        </TR>
+                        <TR style="POSITION: relative; TOP: -10px" class=monitiyann>
+                            <TD colSpan=2>
+                                <A class=change-captcha-l onclick="return false;" href="http://www.fxiaoke.com/#">换一张</A>
+                            </TD>
+                        </TR>
+                        <TR style="POSITION: relative; TOP: -15px" class=monitiyani>
+                            <TD style="WIDTH: 208px" colSpan=2>
+                                <DIV style="POSITION: relative">
+                                    <INPUT class="tjtybt f-getcode" value=获取验证短信 type=button>
+                                </DIV>
+                            </TD>
+                        </TR>
+                    </TBODY>
+                </TABLE>
+                <DIV class=mnty-step-2>
+                    <DIV class=code-info>验证短信已发送至<SPAN class=mnty-mobile></SPAN></DIV>
+                    <DIV class=code-ctner><INPUT class="tjtyip code-val" value=请输入验证码></DIV>
+                    <DIV class=code-submit><INPUT class="tjtybt f-sub" value=立即体验 type=button></DIV>
+                    <DIV class=code-btns>
+                        <A hideFocus class=code-reget onclick="return false;"  href="http://www.fxiaoke.com/#">重新发送(60)</A>
+                        <A hideFocus class=code-change onclick="return false;" href="http://www.fxiaoke.com/#">换个号码</A>
+                    </DIV>
+                </DIV><!--
+                                                                           <div class="mnty-error">
+                                                                             <p class="mnty-error-content">服务器停机维护中，请稍后重试。<br>在此期间给您带来的不便敬请谅解。</p>
+                                                                             <div class="mnty-error-btn">
+                                                                               <span class="mnty-error-btn-back">返回</span>
+                                                                             </div>
+                                                                           </div>
+                -->
+                <DIV class=imgcode-err>验证码已过期，请重新输入</DIV>      
+            </DIV>     
+        </DIV>
+        <DIV class=mnty-mask></DIV><!--/模拟体验  end-->
+        <!------------------------------顶条菜单  start------------------------------->
+        <DIV id=ftop class=header>
+            <A href="index.html">
+                <IMG class=xiaobaologo alt="" src="img/xiaobao_logo.png">
+            </A> 
+            <H3 class=xiaobaotitle>
+                <A class="xiaobao-atpl ton" href="javascript:;">首页</A> 
+                <A class=xiaobao-atpl href="javascript:;">产品</A> 
+                <A class=xiaobao-atpl href="javascript:;">案例</A> 
+<!--                <A class=xiaobao-atpl href="javascript:;">新闻</A>-->
+                <A class=xiaobao-atpl id="download" href="shoujiapp.html">下载</A> 
+                <A class=xiaobao-atpl href="jobus.html">招聘</A>
+                <A class=xiaobao-atpl href="contact.html">联系我们</A>
+                <A class=xiaobao-atpl href="javascript:;" id="more">
+                    更多
+                    <div class="morecontent" style="display:none;">
+                        <ul>
+                            <li>关于我们</li>
+                            <li>产品&服务</li>
+                            <li>合伙人体系</li>
+                            <li>天地汇</li>
+                            <li>加入我们</li>
+                        </ul>
+                    </div>
+                </A>
+<!--                <A class=xiaobao-atpl href="manage.html">经销商</A>-->
+                <SPAN  style="POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; FLOAT: left; PADDING-TOP: 0px; TOP: 5px">|</SPAN> 
+                <A style="COLOR: #288cdc" id=login_4_tj  href="#">登录</A> 
+            </H3>
+            <DIV class=clear></DIV> 
+        </DIV>
+        <!------------------------------顶条菜单  end------------------------------>
+        <!-- 回到顶部 start-->
+        <DIV id=gotopbtn>
+            <A href="javascript:void(0);">回到顶部</A>
+            <SPAN class=hddb></SPAN>
+        </DIV>
+        <!-- 回到顶部 end-->
+        <!-- 右侧咨询窗 start-->
+        <DIV style="DISPLAY: none" class=app-down-panel>
+            <UL class=piaotab>
+                <LI class=piaotabn1>
+                    <A class=piaotab1  href="#"></A>
+                    <SPAN style="DISPLAY: none" class=piaotab1-pic1>
+                        <SCRIPT type=text/javascript charset=utf-8 src="js/wpa.js"></SCRIPT>
+                    </SPAN>
+                </LI>
+                <LI class=piaotabn2>
+                    <A class=piaotab2 href="#"></A>
+                    <SPAN style="DISPLAY: none" class=piaotab1-pic onclick="show('pop', 'http://v.ku6vms.com/phpvms/player/html/vid/dS42IJqurdXXmHDh/style/gRiQ5K9giiL4EUzq/')">
+                        <A href="javascript:;"></A>
+                    </SPAN>
+                </LI>
+            </UL>
+        </DIV>
+        <!-- 右侧咨询窗 end-->
+        <DIV class=pop-layover></DIV>
+        <SCRIPT type=text/javascript>
+            $(".morecontent").find('li').eq(0).click(function(){
+                location.href="about.html";
+            });
+               $(".morecontent").find('li').eq(1).click(function(){
+                location.href="productone.html";
+            });
+               $(".morecontent").find('li').eq(2).click(function(){
+                location.href="partner.html";
+            });
+               $(".morecontent").find('li').eq(3).click(function(){
+                location.href="tiandihui.html";
+            });
+               $(".morecontent").find('li').eq(4).click(function(){
+                location.href="jobus.html";
+            });
+            $("#more").mouseover(function(){
+                $(".morecontent").show();
+            })
+            $("#more").mouseout(function(){
+                $(".morecontent").hide();
+            })
+            
+            
+            $(function () {
+                $('#login_4_tj').click(function(){
+                    window.open("http://wisdom.51lick.com");
+                });
+                var topNavWrap = $('.xiaobaotitle'),
+                        xiaobaoAtplEl = topNavWrap.find('a').filter('.xiaobao-atpl');
+
+                /*
+                 页面滚动
+                 */
+                var topNavWrap = $('.xiaobaotitle');
+                topNavWrap.find('a').eq(0).click(function () {
+                    $('html,body').animate({scrollTop: '0px'}, 500);
+                });
+                topNavWrap.find('a').eq(1).click(function () {
+                    $('html,body').animate({scrollTop: '550px'}, 500);
+                });
+                topNavWrap.find('a').eq(2).click(function () {
+                    $('html,body').animate({scrollTop: '1230px'}, 500);
+                });
+                topNavWrap.find('a').eq(3).click(function () {
+                    $('html,body').animate({scrollTop: '2120px'}, 500);
+                });
+                topNavWrap.find('a').eq(4).click(function () {
+                    $('html,body').animate({scrollTop: '3200px'}, 500);
+                });
+                topNavWrap.find('a').eq(5).click(function () {
+                    $('html,body').animate({scrollTop: '3320px'}, 500);
+                });
+
+                xiaobaoAtplEl.click(function () {
+                    xiaobaoAtplEl.removeClass('ton');
+                    $(this).addClass('ton');
+                });
+
+                var xuanxiangkatit = $('.xuanxiangkatit');
+                xuanxiangkatit.find('a').click(function (evt) {
+                    if ($('html,body').scrollTop() < 550) {
+                        $('html,body').animate({scrollTop: '550px'}, 500);
+                        xiaobaoAtplEl.removeClass('ton');
+                        xiaobaoAtplEl.eq(1).addClass('ton');
+                        evt.preventDefault();
+                    }
+                });
+
+                var botMobDown = $('#bot-mob-down'),
+                        tanchuk = $('#tanchuk');
+                botMobDown.click(function (evt) {
+                    tanchuk.show();
+                    evt.stopPropagation();
+                });
+
+                $(window).scroll(function () {
+                    var winScrollHeight = $(window).scrollTop(),
+                            botMobDownOffsetHeight = botMobDown.offset().top,
+                            botMobDownTop = botMobDownOffsetHeight - winScrollHeight;
+                    //console.info(tanchukTop);
+                    if (botMobDownTop < 160) {
+                        tanchuk.css('top', '3360px')
+                    } else {
+                        tanchuk.css('top', '3220px')
+                    }
+                });
+
+
+                /**
+                 * 模拟体验
+                 */
+//                var mntyEl = $('.mnty'),
+//                        mntyMask = $('.mnty-mask'),
+//                        imgErr = $('.imgcode-err', mntyEl), //图形验证码失效
+//                        step1El = $('.mnty-step-1', mntyEl), //页面1
+//                        step2El = $('.mnty-step-2', mntyEl), //页面2
+//
+//                        mntyHeadClose = $('.mnty_head_close', mntyEl),
+//                        btnReget = $('.code-reget', mntyEl), //重新获取验证码
+//                        btnGetCode = $('.f-getcode', mntyEl), //获取验证短信
+//                        captchaValEl = $('.captcha-val', mntyEl), //验证码输入框
+//                        mobileEl = $('.mobile-val', mntyEl), //手机号
+//                        codeEl = $('.code-val', mntyEl), //手机验证码
+//                        captchaImgEl = $('.captcha-img', mntyEl), //验证码图
+//                        seconds = 60, //60秒内不能重新获取
+//                        timer = null;
+//                var captchaKey = 0;
+//                var updateCaptchaKey = function () {
+//                    var now = new Date();
+//                    captchaKey = Math.ceil(now.getTime() / 1000);
+//                    captchaImgEl.attr('src', '/DemoAccount/GetCodeImg?key=' + captchaKey);
+//                };
+//                $('.enter-demo-link').click(function (evt) {
+//                    evt.preventDefault();
+//                    bone.isClose(function () {
+//                        updateCaptchaKey();
+//                        var pos = $('.enter-demo-link').offset();
+//                        mntyEl.parent().css('top', pos.top + 58 - 224);
+//                        mntyEl.show().animate({
+//                            "left": "0"
+//                        }, 800);
+//                        mntyMask.show();
+//                    });
+//                });
+//                $('.enter-reg-link').click(function (evt) {
+//                    evt.preventDefault();
+//                    bone.isClose(function () {
+//                        location.href = "xiaoke/pc/reg.html";
+//                    })
+//                })
+//                //点击图片更换地址
+//                mntyEl.on('click', '.change-captcha-l,.captcha-img', function (evt) {
+//                    updateCaptchaKey();
+//                    evt.preventDefault();
+//                });
+//
+//                //点击按钮进入体验
+//                mntyEl.on('keydown', '.captcha-val', function (eve) {
+//                    if (eve.keyCode == 13) {
+//                        mntyEl.find('.f-sub').trigger('click');
+//                    }
+//                });
+
+
+//                var getCode = function () {
+//                    var captchaVal = $.trim(captchaValEl.val());
+//                    var mobileVal = $.trim(mobileEl.val());
+//                    $.ajax({
+//                        "type": "post",
+//                        "dataType": "json",
+//                        "url": "DemoAccount/BuildValidateCode",
+//                        "data": {
+//                            "key": captchaKey,
+//                            "imgcode": captchaVal,
+//                            "mobile": mobileVal
+//                        },
+//                        "success": function (responseData) {
+//
+//                            if (responseData.success) {
+//                                step1El.hide();
+//                                $('.mnty-mobile', step2El).html(mobileVal);
+//                                imgErr.hide();
+//                                btnReget.addClass('grey');
+//                                btnGetCode.addClass('grey');
+//                                timer = setInterval(function () {
+//                                    seconds--;
+//                                    if (seconds > 0) {
+//                                        btnReget.html('重新发送(' + seconds + ')');
+//                                        btnGetCode.val('获取验证短信(' + seconds + ')');
+//                                    } else {
+//                                        seconds = 60;
+//                                        btnReget.html('重新发送').removeClass('grey');
+//                                        btnGetCode.val('获取验证短信').removeClass('grey');
+//                                        clearInterval(timer);
+//                                        timer = null;
+//                                    }
+//                                }, 1000);
+//                                step2El.show();
+//                            } else {
+//                                switch ($.trim(responseData.error)) {
+//                                    case '001':
+//                                        alert('手机格式不正确');
+//                                        break;
+//                                    case '004':
+//                                        alert('两次获取验证码的间隔不能少于1分钟');
+//                                        break;
+//                                    case '005':
+//                                        if (step1El.css('display') != 'none') {
+//                                            alert('图形验证码不正确');
+//                                        } else {
+//                                            step1El.show();
+//                                            step2El.hide();
+//                                            updateCaptchaKey();
+//                                            imgErr.show();
+//                                            captchaValEl.val('').get(0).focus();
+//                                        }
+//                                        break;
+//                                }
+//                            }
+//                        },
+//                        "error": function () {
+//                            alert('网络繁忙，请重试。');
+//                        }
+//                    });
+//                };
+//                mntyEl.on('click', '.f-sub', function (evt) {
+//                    var codeVal = $.trim(codeEl.val());
+//                    var mobileVal = $.trim(mobileEl.val());
+//                    if (codeVal.length > 0 && codeVal != "请输入验证码") {
+//                        $.ajax({
+//                            "type": "post",
+//                            "dataType": "json",
+//                            "url": "/DemoAccount/LoginEx",
+//                            "data": {
+//                                "key": captchaKey,
+//                                "validateCode": codeVal,
+//                                "mobile": mobileVal,
+//                                "source": 3
+//                            },
+//                            "success": function (responseData) {
+//                                var gotoUrl;
+//                                if (responseData.success) {
+//                                    gotoUrl = responseData.data;
+//                                    location.href = "/" + gotoUrl;
+//                                } else {
+//                                    alert('登录失败，' + responseData.error);
+//                                }
+//                            },
+//                            "error": function () {
+//                                alert('网络繁忙，请重试。');
+//                            }
+//                        });
+//                    }
+//                    evt.preventDefault();
+//                }).on('click', '.f-getcode', function () {
+//                    if (!btnGetCode.hasClass('grey')) {
+//                        var captchaVal = $.trim(captchaValEl.val());
+//                        var mobileVal = $.trim(mobileEl.val());
+//                        if (mobileVal.length > 0 && mobileVal != '请输入手机号码' && captchaVal.length > 0 && captchaVal != "请输入右侧字符") {
+//                            getCode();
+//                        }
+//                    }
+//                }).on('click', '.code-reget', function () {
+//                    if (!btnReget.hasClass('grey')) {
+//                        getCode();
+//                    }
+//                }).on('blur', '.captcha-val', function () {
+//                    var captchaVal = $.trim(captchaValEl.val());
+//                    if (captchaVal.length == 0) {
+//                        captchaValEl.val('请输入右侧字符');
+//                        captchaValEl.css('color', '#C8C8C8');
+//                    }
+//                }).on('click', '.captcha-val', function () {
+//                    var captchaVal = $.trim(captchaValEl.val());
+//                    if (captchaVal == '请输入右侧字符') {
+//                        captchaValEl.val('');
+//                        captchaValEl.css('color', '#000000');
+//                    }
+//                }).on('blur', '.mobile-val', function () {
+//                    var mobileVal = $.trim(mobileEl.val());
+//                    if (mobileVal.length == 0) {
+//                        mobileEl.val('请输入手机号码');
+//                        mobileEl.css('color', '#C8C8C8');
+//                    }
+//                }).on('click', '.mobile-val', function () {
+//                    var mobileVal = $.trim(mobileEl.val());
+//                    if (mobileVal == '请输入手机号码') {
+//                        mobileEl.val('');
+//                        mobileEl.css('color', '#000000');
+//                    }
+//                }).on('blur', '.code-val', function () {
+//                    var codeVal = $.trim(codeEl.val());
+//                    if (codeVal.length == 0) {
+//                        codeEl.val('请输入验证码');
+//                        codeEl.css('color', '#C8C8C8');
+//                    }
+//                }).on('click', '.code-val', function () {
+//                    var codeVal = $.trim(codeEl.val());
+//                    if (codeVal == '请输入验证码') {
+//                        codeEl.val('');
+//                        codeEl.css('color', '#000000');
+//                    }
+//                }).on('click', '.code-change', function () {
+//                    step1El.show();
+//                    step2El.hide();
+//                    updateCaptchaKey();
+//                    mobileEl.val('').get(0).focus();
+//                    captchaValEl.val('请输入右侧字符');
+//                });
+//
+//
+//                mntyHeadClose.click(function (evt) {
+//                    mntyEl.hide().stop(true, true).css({
+//                        "left": "400px"
+//                    });
+//                    mntyMask.hide();
+//                    tanchuk.hide();
+//                    evt.preventDefault();
+//                });
+//                //点击页面其他地方关闭体验框
+//                $(document).click(function (e) {
+//                    if ($(e.target).attr('id') == 'mnty_4_tj') {
+//                        return;
+//                    }
+//                    mntyEl.hide().stop(true, true).css({
+//                        "left": "400px"
+//                    });
+//                    mntyMask.hide();
+//                    tanchuk.hide();
+//                });
+//                mntyEl.click(function (evt) {
+//                    evt.stopPropagation();
+//                });
+            });
+        </SCRIPT>
+
+        <SCRIPT type=text/javascript>
+            var topNavWrap = $('.xiaobaotitle'),
+            xiaobaoAtplEl = topNavWrap.find('a').filter('.xiaobao-atpl');
+        //bannet 效果
+            $('#inner').nav({t: 5000, a: 1000});//t 图片更换时间 a 图片加载时间
+
+        //选项卡
+            $(document).ready(function () {
+                var tabA = $('#region a');
+                tabA.each(function (i) {
+                    $(this).mouseenter(function (evt) {
+                        tabA.removeClass('tabOn');
+                        $(this).addClass('tabOn');
+                        $('.content').removeClass('on');
+                        $('.content:eq(' + i + ')').addClass('on');
+                        //$(this).click();
+                        xiaobaoAtplEl.removeClass('ton');
+                        xiaobaoAtplEl.eq(1).addClass('ton');
+                        evt.preventDefault();
+                    }).click(function (evt) {
+                        evt.preventDefault();
+                    });  
+                }); 
+            });
+        //选项卡-->
+        //回到顶部-->
+            $(document).ready(function () {
+                var backtopEl = $('#gotopbtn');
+                var winEl = $(window);
+                winEl.scroll(function () {
+                    var scrollTop = winEl.scrollTop();
+                    if (scrollTop > 0) {
+                        backtopEl.show();
+                    } else {
+                        backtopEl.hide();
+                    }
+                });
+                backtopEl.click(function () {
+                    $('html,body').animate({scrollTop: '0px'}, 500);
+                });
+                
+//                $('.banner-c-min').bind('click',function(){
+//                    window.open("http://eqxiu.com/s/xD7Sm9Vm");
+//                });
+//                $('.banner-c-min').bind('click', function () {
+//                    slideLarge();
+//                });
+//                var slideSmall = function () {
+//                    $('.banner-c').animate({
+//                        height: 100
+//                    }, {
+//                        easing: 'easeInQuad',
+//                        duration: 1000,
+//                        step: function () {
+//                            var pos = $('.enter-demo-link').offset();
+//                            $('.mnty').parent().css('top', pos.top + 58 - 224);
+//                        },
+//                        complete: function () {
+//                            $('.banner-c').hide();
+//                            $('.banner-c-min').show();
+//                        }
+//                    });
+//                };
+//                var slideLarge = function () {
+//                    $('.banner-c-min').hide();
+//                    $('.banner-c').css('height', 100).show();
+//                    $('.banner-c').animate({
+//                        height: 700
+//                    }, {
+//                        easing: 'easeInQuad',
+//                        duration: 1000,
+//                        step: function () {
+//                            var pos = $('.enter-demo-link').offset();
+//                            $('.mnty').parent().css('top', pos.top + 58 - 224);
+//                        },
+//                        complete: function () {
+//                            $('.banner-c').show();
+//                            $('.banner-c-min').hide();
+//                            setTimeout(function () {
+//                                slideSmall();
+//                            }, 10000);
+//                        }
+//                    });
+//                };
+            });
+        //回到顶部结束
+        </SCRIPT>
+
+        <SCRIPT type=text/javascript>
+            $(function () {
+                var listWrap = $('.vediomainsp').find('li');
+                listWrap.mouseenter(function () {
+                    var meEl = $(this);
+                    meEl.find('.vediomainsptitle').hide();
+                    meEl.find('.vediomainspnr').show();
+                });
+                listWrap.mouseleave(function () {
+                    var meEl = $(this);
+                    meEl.find('.vediomainsptitle').show();
+                    meEl.find('.vediomainspnr').hide();
+                });
+                //右侧咨询窗 浮层 效果
+                var piaoTabEl = $('.piaotab');
+                piaoTabEl.find('.piaotabn2').mouseenter(function () {
+                    $(this).find('.piaotab1-pic').show();
+                }).mouseleave(function () {
+                    $(this).find('.piaotab1-pic').hide();
+                });
+                piaoTabEl.find('.piaotabn1').mouseenter(function () {
+                    $(this).find('.piaotab1-pic1').show();
+                }).mouseleave(function () {
+                    $(this).find('.piaotab1-pic1').hide();
+                });
+
+            });
+
+            function show(o, url) {
+                var o = document.getElementById(o);
+                var spw = document.getElementById("spw");
+
+                spw.innerHTML = '<EMBED id="sp" name="fsVideo" width="700"' +
+                        'height="525" align="middle" src="' + url + '" ' +
+                        'type="application/x-shockwave-flash" flashvars="auto=1" allowfullscreen="true" ' +
+                        'allowscriptaccess="always" quality="high">' +
+                        '</EMBED>';
+                o.style.display = "";
+                $('#inner').trigger('mouseenter');
+                $('.pop-layover').show();
+                //$('#inner').trigger('mouseenter');
+            }
+
+            function hide(o) {
+                var o = document.getElementById(o);
+                o.style.display = "none";
+                //window.location.reload();
+                var spw = document.getElementById("spw"),
+                        sp = document.getElementById("sp");
+                spw.removeChild(sp);
+                $('#inner').trigger('mouseleave');
+                $('.pop-layover').hide();
+            }
+
+        </SCRIPT>
+
+<!--        <SCRIPT type=text/javascript>
+            var randomNum = new Date() / 1;
+            document.write(unescape("%3Cscript src='./statistics/common.js?v=" + randomNum + "' type='text/javascript'%3E%3C/script%3E"));
+        </SCRIPT>
+
+        <SCRIPT type=text/javascript>
+            var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+            document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F06d5233541e92feb3cc8980700b1efa6' type='text/javascript'%3E%3C/script%3E"));
+        </SCRIPT>-->
+<!--        脉可寻公司 测试广告平台
+        <SCRIPT id=_mutmzc type=text/javascript 
+        src="i.htm"></SCRIPT>
+        判断是否升级 脚本
+        <SCRIPT type=text/javascript>
+            (function () {
+                var state = $.getParam('maintaining');
+                if (state == 1) {
+                    bone.isClose();
+                }
+            })()
+
+        </SCRIPT>-->
+        <!--end-->
+
+		<script>
+            var _hmt = _hmt || [];
+            (function() {
+                  var hm = document.createElement("script");
+                  hm.src = "//hm.baidu.com/hm.js?f335e25999adbe52df267df2890c6b19";
+                  var s = document.getElementsByTagName("script")[0]; 
+                  s.parentNode.insertBefore(hm, s);
+              })();
+        </script>
+
+
+        <!--<script type="text/javascript"> var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://"); document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fe4918de444a30ce33c8c9b920e8cdef8' type='text/javascript'%3E%3C/script%3E")) </script>-->
+		</BODY>
+        </HTML>

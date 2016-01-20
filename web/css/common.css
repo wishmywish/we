@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+.container{max-width:1020px!important;_width:1020px;*width:1020px;}
+body,ul,li{font-family: Microsoft YaHei,"微软雅黑",Lucida,Verdana,Hiragino Sans GB,STHeiti,WenQuanYi Micro Hei,Droid Sans Fallback,SimSun,sans-serif;list-style:none}
+@media screen and (max-width :800px){
+#nav .navli .open .dropdown-menu li a:link,#nav .navli .open .dropdown-menu li a:visited{color:#999;padding-left:30px;background:#fff}
+#nav .navli .open .dropdown-menu li a:hover,#nav .navli .open .dropdown-menu li a:active{color:#000;padding-left:30px;background:#fff}
+}
+
+span.glyphicon-chevron-left{background:url(../images/pre.png) no-repeat;width:40px;height:76px}
+span.glyphicon-chevron-right{background:url(../images/next.png) no-repeat;width:40px;height:76px}
+.topslideli{margin-left:-35%;text-align:left;}
+.navbox{line-height:42px;background:#383838;border-radius:0;border:0;min-height:42px;margin-bottom:0}
+.navli>li{background:url(../images/navlibg.png) no-repeat right;color:#fff;}
+.navli li a {font-size:15px}
+#nav .navli li a{color:#fff;padding:13px 20px}
+#nav .navli li.end{background:none}
+#nav .navli li a:hover,#nav .navli li a:active{ cursor:pointer;background:#64c6ed;text-decoration:none;color:#fff}
+#nav .navli li.open>a,#nav .navli li.open>a:hover,#nav .navli li.open>a:active{background:#64c6ed;text-decoration:none;color:#fff}
+
+#nav .navli li a.select{background:#64c6ed;}
+#nav .navli li .dropdown-menu li a{color:#333}
+#nav .nav-main{max-height:720px;padding:0}
+#nav ul.navright{list-style-type:none;padding-right:10px;}
+#nav .navright li{padding:0 5px;list-style:none;font-size:15px;}
+#nav .navright li button{padding:4px 17px;border-radius:2px;color:#fff;font-size:15px;width:100%}
+#nav .navright .log{padding-top:2px;}
+#nav .navright li .one{background:#388cdf}
+#nav .navright li .two{background:#56a81f}
+#nav .navright li a.nav-btn-log,#nav .navright li a:hover{text-decoration:none;color:#fff;}
+
+/*bottom*/
+.regbox{padding:20px 0 5px;background:#565656;}
+.martop{margin-top:40px;}
+.mphone{border-radius:0;background:#eee;border:1px solid #383838;font-size:1.6em;color:#b2b2b2;padding:0 10px;height:48px}
+.reg-btn{padding:10px 34px;background:#12a7cb;border-radius:2px;width:100%}
+.reg-btn span{color:#fff;}
+
+.bottom{background:#383838;padding:25px 0 0}
+.bottom h4{color:#cdcdcd;}
+.fnavli{list-style:none;margin:0;padding:0}
+.fnavli li{padding:3px 0 5px 12px;background:url(../images/bnavli.gif) no-repeat 0;font-size:12px}
+.fnavli li a{color:#777;}
+.fnavli li a:hover{color:#777;text-decoration:none}
+.copyright{background:url(../images/fnavbg.png) no-repeat center top;padding:25px 0;margin-top:25px;color:#cdcdcd;font-size:12px}
+.qqbox{width:82px;height:117px; text-align:right;position:fixed;right:0;top:40%;z-index:3333; cursor:pointer}
+.qq-main{position:fixed;top:38%;right:40px;background:#fff;border:1px solid #ddd;width:102px;height:160px;display:none}
+.help {
+background: url(../images/help.gif) no-repeat 0 1px;
+width: 100px;
+height: 65px;
+}
+.help_txt01 {
+width: 84px;
+height: 21px;
+line-height: 21px;
+background: none;
+color: #999;
+font-size: 12px;
+position: absolute;
+top: 160px;
+left: 8px;
+border: none;
+text-align: center;
+}
+.com-mainbg{font-family:'微软雅黑'}
+#testdiv {width:600px; margin:0px auto; border:1px solid #ccc; padding:20px 25px 12px; background:#fff}
+.tbox {position:absolute; display:none; padding:0; z-index:1110}
+.tinner {padding:10px; -moz-border-radius:5px; border-radius:5px; background:#fff url(../images/preload.gif) no-repeat 50% 50%; border-right:1px solid #333; border-bottom:1px solid #333}
+.tmask {position:absolute; display:none; top:0px; left:0px; height:100%; width:100%; background:#000; z-index:800}
+.tclose {position:absolute; top:-13px; right:-10px; width:30px; height:30px; cursor:pointer; background:url(../images/close.png) no-repeat}
+.tclose:hover {background-position:0 -30px}
+
+.linkmain{height:40px;color:#fff;padding:40px 0 60px}
+.linkmain a{display:block;background-image:url(../images/footer.png);margin:0 auto}
+.linkmain a.link_yd{background-position:-45px -20px;width:125px;height:60px;}
+.linkmain a.link_lt{background-position:-239px -20px;width:90px;height:60px;margin:0 auto}
+.linkmain a.link_dx{background-position:-390px -20px;width:135px;height:60px;}
+.linkmain a.link_ibm{background-position:-590px -20px;width:111px;height:60px;}
+
+#ad{position:relative;width:100%;}
+#ad .ad-close{position:absolute;top:2%;left:93%;font-weight:normal; opacity:0.3;border-radius:3px;background:#fff;color:#000; cursor:pointer;text-align:center;width:70px;height:26px;line-height:26px;font-size:18px;}

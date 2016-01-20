@@ -1,0 +1,516 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>                                                        
+<!--<script id="allmobilize" charset="utf-8" src="../a.yunshipei.com/aa1ade851fb06f625df7b62a7df29203/allmobilize.min.js"></script>-->
+<meta http-equiv="Cache-Control" content="no-transform" />
+<link rel="alternate" media="handheld" href="#" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>小宝招商 全国第一招商众包网络平台 利伊享 日思夜享数据科技有限公司  </title>
+ <META name=author content="日思夜享 小宝招商,杭州利伊享数据科技有限公司"/>
+<meta name="keywords" content="招商外包,招商服务,低成本招商,网络招商,营销人,兼职,众包招商,第一招商 " />
+<meta name="description" content="小宝招商，全国最大的移动互联网招商外包平台，汇聚天下百万营销人员，快准低成本帮助企业招到全国客户，先期低成本，精准招商，按成果付费，担保交易，免费宣传" />
+<link href="css/home.css-3.css"  rel="stylesheet" type="text/css" />
+<link href="css/about.css"  rel="stylesheet" type="text/css" />
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+	<style>
+		.back
+		{
+			width:35px;
+			height:15px;
+			position:relative;
+			animation:myfirst1 2s linear 3s infinite normal;
+			/* Firefox: */
+			-moz-animation:myfirst1 2s linear 3s infinite normal;
+			/* Safari and Chrome: */
+			-webkit-animation:myfirst1 2s linear 3s infinite normal;
+			/* Opera: */
+			-o-animation:myfirst1 2s linear 3s infinite normal;
+		}
+
+		@keyframes myfirst1
+		{
+			0%   {opacity: 0;left:35px;}
+			25%  {opacity: .4;left:25px;}
+			75%  {opacity: .8;left:12px;}
+			100% {opacity: 1;left:0;}
+		}
+		@-webkit-keyframes myfirst1 /* Safari and Chrome */
+		{
+			0%   {opacity: 0;left:35px;}
+			25%  {opacity: .4;left:25px;}
+			75%  {opacity: .8;left:12px;}
+			100% {opacity: 1;left:0;}
+		}
+		@-moz-keyframes myfirst1 /* Firefox */
+		{
+			0%   {opacity: 0;left:35px;}
+			25%  {opacity: .4;left:25px;}
+			75%  {opacity: .8;left:12px;}
+			100% {opacity: 1;left:0;}
+		}
+		@-o-keyframes myfirst1 /* Opera */
+		{
+			0%   {opacity: 0;left:35px;}
+			25%  {opacity: .4;left:25px;}
+			75%  {opacity: .8;left:12px;}
+			100% {opacity: 1;left:0;}
+		}
+	</style>
+</head>
+<body>
+<div class="header" id="ftop">
+  <!--模拟体验-->
+<div class="mnty mnty-index mnty1" style="display:none;"><!----------------------------隐藏--------------------------->
+<div class="mnty_head">模拟体验帐号<a class="mnty_head_close" href="javascript:void(0);"></a></div>
+<table cellspacing="0" class="monitiyan mnty-step-1">
+    <tr class="monitiyani"><td colspan="2" style="width:208px;"><input value="请输入手机号码" class="tjtyip mobile-val" /></td></tr>
+    <tr class="monitiyani"><td colspan="2" style="width:111px;">
+    <input value="请输入右侧字符" class="tjtyip captcha-val" /><img class="monitiyaniimc captcha-img" src="img/clear.gif"  /></td>
+    </tr>
+   <tr class="monitiyann" style="*position:relative;*top:-10px;"><td colspan="2"><a class="change-captcha-l" href="#" onclick="return false;">换一张</a></td></tr>
+   <tr class="monitiyani" style="*position:relative;*top:-15px;"><td colspan="2" style="width:208px;"><div style="position: relative;"><input type="button" value="获取验证短信" class="tjtybt f-getcode" /></div></td>
+  </tr>
+</table>
+<div class="mnty-step-2">
+   <div class="code-info">验证短信已发送至<span class="mnty-mobile"></span></div>
+   <div class="code-ctner"><input value="请输入验证码" class="tjtyip code-val" /></div>
+   <div class="code-submit"><input type="button" value="立即体验" class="tjtybt f-sub" /></div>
+   <div class="code-btns"><a href="#" onclick="return false;" hidefocus="" class="code-reget">重新发送(60)</a><a href="#" onclick="return false;" hidefocus="" class="code-change">换个号码</a></div>
+</div>
+<div class="imgcode-err">验证码已过期，请重新输入</div>
+</div>
+  <div class="header1">
+      <a href="index.html" >
+          <img src="img/xiaobao_logo.png"  alt="" class="xiaobaologo" style="padding-left:0px;" />
+      </a>
+<h3 class="xiaobaotitle" style=" padding-right:0px;"> 
+    <a href="marketing.html" >返回</a>
+<!--    <a class="titlefree experience-btn" style="background-color:#FFA000; margin-left:0px;" href="#" onclick="return false;">模拟体验</a> 
+    <a class="titlefree titlelogin" href="xiaoke/pc/reg.html">快速注册</a> -->
+</h3>
+  </div>
+  <div class="clear"></div>
+</div>
+<div style=" height:70px;"></div>
+<div class="videoimg6"> </div>
+<div class="container">
+  <!--<div class="conl" id="conl">-->
+    <!--<ul class="conltit">-->
+      <!--&lt;!&ndash;<li><a href="shoujiapp.html"><span style="margin-top: 3px; margin-right: 2px;" class="fa fa-caret-right fa-lg">&nbsp;</span>小宝招商APP介绍</a></li>&ndash;&gt;-->
+      <!--<li><a href="shoujidown.html"  class="clik"><span style="margin-top: 3px; margin-right: 2px;" class="fa fa-caret-right fa-lg">&nbsp;</span>小宝营销创客工作室</a></li>-->
+		<!--<li><a href="shoujiyinxiao.html"><span style="margin-top: 3px; margin-right: 2px;" class="fa fa-caret-right fa-lg">&nbsp;</span>小宝营销人创业出路</a></li>-->
+      <!--&lt;!&ndash;<li><a href="tiandihuizx.html" >最新活动</a></li>&ndash;&gt;-->
+     <!-- -->
+    <!--</ul>-->
+  <!--</div>-->
+  <div class="conr" id="conr">
+   <h4 class="contit" style="  font-size: 24px;background: #eee;line-height: 50px;padding-left: 30px;font-weight: bold;color: #575754;">滴滴打车、小宝招商、搜狗等荣获2015互联网营销创新金鼎奖 </h4>
+	  <img style="  margin-top: 13px;margin-bottom: 40px;" src="img/md08.jpg">
+
+	   <p class="conneir" style="margin-bottom:10px; font-size: 14px;">12月17号，第十三届（2015）中国营销盛典金鼎奖在北京丽都皇冠假日酒店胜利闭幕，中国企业营销创新金鼎奖是中国营销界的最高奖项，是营销界规模最大、影响力最广的年度高峰论坛。该奖项从2000年起由中国营销第一刊销售与市场杂志社发起、美国营销促进会（SMA）、中国市场学会和各行业协会联手评选举办的专业奖项，发掘了一批中国市场领域的杰出代表，也传播了一批具有伟大创新精神的高影响力案例。</p>
+	   <p class="conneir" style="margin-bottom:10px; font-size: 14px;">经过对2015年全年来各行业企业、黑马企业的多维度评选，最终，滴滴打车、小宝招商、搜狗、分众传媒、海尔冰箱、长虹电器、新浪乐居、宜人贷、温碧泉、纷享销客等20多个品牌获得年度各行业企业营销创新金鼎奖，同程旅游、苏宁红孩子等获得营销经理人金鼎奖。</p>
+	   <p class="conneir" style="margin-bottom:10px; font-size: 14px;">滴滴出行，改变了我们的传统出行方式，在大移动互联网时代下，建立并培养出便捷的现代化出行方式，画出乘客与司机紧密相连的O2O完美闭环。比滴滴出行更快的是其每次凌厉、飓风般席卷一切的营销行为。风一样的滴滴，总是让人望尘莫及，成为本届创新金鼎奖获奖品牌。</p>
+	 <img style="  margin-top: 13px;margin-bottom: 40px;" src="img/md09.jpg" />
+	  <p class="conneir" style="margin-bottom:10px; font-size: 14px;">小宝招商，2015年度互联网营销模式最具创新精神的公司之一，其全新的BCB众包共享模式，整合了大数据撮合与渠道人脉撮合于一体，融进了业务员即C端用户对企业级应用的强力推动作用，而通过悬赏模式，又极大地吸引了百万级C端用户的粘性，对传统的B2B模式是一种颠覆。“一声江湖令，十万营销军”。作为全国第一家把企业、渠道、营销人员三方资源整合于一起的新型互联网招商平台，“小宝招商”用当年最热门的共享经济模式，以ToC的方式去解决ToB的问题，以共享的思维重构企业营销组织，让企业营销成为社会化营销，全社会都成了企业的业务员，而营销人员又以创客思维，经营所在区域的渠道客户资源，让每个企业都成为自己的东家。</p>
+	  <p class="conneir" style="margin-bottom:10px; font-size: 14px;">这种以撮合为核心的系统，未来将不仅仅是一个招商平台，更将是一个连接企业、商家、个人的全生态系统。</p>
+	  <p class="conneir" style="margin-bottom:10px; font-size: 14px;">搜狗作为国内最具成长力与创新力的互联网公司，搜狗旗下输入法、搜索、浏览器三大核心产品表现不凡，其中，搜狗手机输入法用户月活跃超2.3亿，稳居中国第三大移动应用，是“独角兽”公司中极少数的规模性盈利的公司。</p>
+	  <p class="conneir" style="margin-bottom:10px; font-size: 14px;">分众传媒，中国领先的LBS生活圈媒体群。在移动互联网时代，通过结合物业云、百度云、电商云大数据，与消费者建立密切连接，成为具备LBS+O2O服务能力的数据营销平台。成为低成本获取高质量新用户的经典案例。</p>
+	  <p class="conneir" style="margin-bottom:10px; font-size: 14px;">同样获奖的还有P2P网贷的宜人贷，国内购房平台的佼佼者乐居等，以及一大批制造业转型成功搭上互联网这个快速路的传统品牌，如海尔、长虹等，他们在传统领域经历了强烈的市场地震，仍以强烈的决心向互联网转型，获得了丰厚的回报。</p>
+	  <p class="conneir" style="margin-bottom:10px; font-size: 14px;">作为多年的互联网品牌，我们认为他们的获奖是应该的，作为几十年传统制造业的领军品牌，他们的创新也是值得鼓励的，但记者的目光更多地转向那些近几年的黑马，滴滴、小宝招商、宜人贷、纷享销客等，短短的几年，他们从无到有，以其强大的模式创新能力，解构着人们对互联网的认知，我们津津于浙江水乡乌镇第二届互联网大会BATJ3M们的舞台表演，睡相与酒杯齐舞、美女与口水齐飞的情景，也不能忘记这些响应大众创新万众创业的创新者，第一二届互联网大会，代表着第一代互联网企业的成就，而第三届，会否有后浪赶上前浪的雄姿出现？</p>
+	  <p class="conneir" style="margin-bottom:10px; font-size: 14px;">作为被评为营销创新金鼎奖里最年轻的小宝招商，是记者第一个想一解究竟的企业。德鲁克说，企业只有两项职能，营销和创新。《销售与市场》杂志社副总编在开场演讲中说：创新，我们年年提创新，天天提创新，但是创新路径到底在哪儿？创新在现阶段只有三个方向，要么是技术，要么是产品，要么是模式，以后企业的发展，一定是新产品，新技术，新模式的突破。</p>
+	  <img style="  margin-top: 13px;margin-bottom: 40px;" src="img/md10.jpg" />
+	  <p class="conneir" style="margin-bottom:10px; font-size: 14px;">从商业模式上来看，小宝招商是全国第一个运用移动互联网的招商平台，以全国8000万营销人员为C端用户，以获得悬赏方式帮助企业完成招商的一个众包网络平台，完成后付费，成为8000万营销人的赚钱神器。在这个平台里，除了业务员这个C端用户外，还有企业与经销商这两个B端用户，而平台起到了撮合、悬赏分配、安全保障作用，从某方面来说，也是UBER模式在营销领域的创新实践。小宝招商第一次把它命名为BCB模式，这一模式改变了中国企业传统招商的三板斧：人海招商、广告招商、会议招商。招商难是市场经济30年来所有企业的共同感受，而这三板斧最大的弊端在于前期需要投入大量的人力物力财力，效果却不一定有保证，几十年来所有企业都领教了这三种方式的困惑。</p>
+	  <p class="conneir" style="margin-bottom:10px; font-size: 14px;">2015年，小宝招商凭借这一创新，成为世界500强IBM中国研究院的云计算中国战略伙伴，浙商理事会战略联盟成员，正和岛机构执行秘书长之一，《销售与市场》战略联盟机构。小宝招商按效果付费的模式，让企业招商获得极低的进入门槛，恰恰解决了30年来中国企业的营销难题。据统计，中国企业每年投入招商的费用达近3万亿，强烈的刚需说明强大的前景。另一方面，全国8000万营销人才，正面临着互联网冲击带来的转型压力，小宝招商的这种模式，又为营销人才提供了全新的创业机会，利用自身的渠道资源和客户人脉，有能力的销售经理就有可能创立自己的营销公司、代理公司。</p>
+	  <p class="conneir" style="margin-bottom:10px; font-size: 14px;">30年市场经济的过程，就是一个砍掉包袱的过程，30年前企业砍掉了退休科、基建科，20年前砍掉了广告部，10年前砍掉了物流部，还有设计部、甚至审计部，所以我们能够集中精力获得高速发展，现在看看中国发展最快的企业，小米，他一开始就砍掉了生产部，而傲视群雄的苹果，更没有自己的生产，甚至连销售也让别人去管。因此，我们发现一个规律，谁把企业的部门砍得越多，谁发展的就越快，哪个企业部门越齐全，就发展的越慢，看看传统的那些国企业、家电大企业你就明白，他们有的一个企业就是一座城，但现在和将来呢？</p>
+	  <p class="conneir" style="margin-bottom:10px; font-size: 14px;">可能会有那么一天，企业没有自己的研发、没有自己的生产、没有自己的销售，这一切，统统外包，让专业的人做专业的事，只保留自己的原创设计，企业才会飞速发展，这个社会才会变得更高效。报道微信号xbzs0571</p>
+	  <p><a style="float: left;" href="market05.html"><img class="back" style="width: 35px;height: 15px;" src="img/back.png" title="上一篇"></a></p>
+  </div>
+  <div class="clear"></div>
+</div>
+<iframe src="Templates/footer.html"  height="570px;" width="100%" frameborder="0" scrolling="no"></iframe><!----------------------------改动了height 原来770--------------------------->
+<!----------------------------隐藏咨询浮窗 start--------------------------->
+<div class="app-down-panel" style="display: none;">
+  <ul class="piaotab">
+    <li class="piaotabn1"><a href="#" class="piaotab1"></a><span class="piaotab1-pic1" style="display:none;">
+      <script charset="utf-8" type="text/javascript" src="../wpa.b.qq.com/cgi/wpa.php-key=XzkzODA0NjAxM182MzUyN180MDA2Njg5MDUwXw" ></script>
+      </span></li>
+    <li class="piaotabn2"><a href="#" class="piaotab2"></a><span class="piaotab1-pic" style="display:none;" onclick="show('pop','http://v.ku6vms.com/phpvms/player/html/vid/dS42IJqurdXXmHDh/style/gRiQ5K9giiL4EUzq/')"><a href="javascript:;"></a></span></li>
+  </ul>
+</div>
+<!----------------------------隐藏咨询浮窗 end--------------------------->
+<div id="pop" class="pop" style="display:none">
+    <div class="pop_head"> <a href="javascript:void(0);" onclick="hide('pop') ">关闭</a> </div>
+    <div id="spw"></div>
+    </div>
+<!-- 右侧咨询窗 start-->
+<DIV style="DISPLAY: none" class=app-down-panel>
+	<UL class=piaotab>
+		<LI class=piaotabn1>
+			<A class=piaotab1  href="#"></A>
+                    <SPAN style="DISPLAY: none" class=piaotab1-pic1>
+                        <SCRIPT type=text/javascript charset=utf-8 src="js/wpa.js"></SCRIPT>
+                    </SPAN>
+		</LI>
+		<LI class=piaotabn2>
+			<A class=piaotab2 href="#"></A>
+                    <SPAN style="DISPLAY: none" class=piaotab1-pic onclick="show('pop', 'http://v.ku6vms.com/phpvms/player/html/vid/dS42IJqurdXXmHDh/style/gRiQ5K9giiL4EUzq/')">
+                        <A href="javascript:;"></A>
+                    </SPAN>
+		</LI>
+	</UL>
+</DIV>
+<!-- 右侧咨询窗 end-->
+<script>
+	var _hmt = _hmt || [];
+	(function() {
+		var hm = document.createElement("script");
+		hm.src = "//hm.baidu.com/hm.js?f335e25999adbe52df267df2890c6b19";
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(hm, s);
+	})();
+</script>
+<script>
+	var _hmt = _hmt || [];
+	(function() {
+		var hm = document.createElement("script");
+		hm.src = "//hm.baidu.com/hm.js?24bdaf8ed0502b9290e557294dff8bf8";
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(hm, s);
+	})();
+</script>
+<script src="js/jquery-1.11.2.min.js" type="text/javascript"></script>
+<script src="js/downtime.js-0" type="text/javascript"></script>
+<script type="text/javascript">
+    $(function(){
+	var listWrap=$('.vediomainsp').find('p');
+	listWrap.mouseenter(function(){
+		var meEl=$(this);
+		meEl.find('.vediomainsptitle').hide();
+		meEl.find('.vediomainspnr').show(); 
+	});
+	listWrap.mouseleave(function(){
+		var meEl=$(this);
+		meEl.find('.vediomainsptitle').show();
+		meEl.find('.vediomainspnr').hide(); 
+	});
+	 
+});
+ 
+function show(o,url){
+ var o = document.getElementById(o);
+ var spw=document.getElementById("spw");
+ 
+ spw.innerHTML='<EMBED id="sp" name="fsVideo" width="700"'+
+'height="525" align="middle" src="'+url+'" '+
+'type="application/x-shockwave-flash" flashvars="auto=1" allowfullscreen="true" '+
+'allowscriptaccess="always" quality="high">'+
+'</EMBED>';
+ o.style.display = "";
+}
+function hide(o){
+ var o = document.getElementById(o);
+ o.style.display = "none";
+ //window.location.reload();
+ var spw=document.getElementById("spw"),
+     sp=document.getElementById("sp");
+     spw.removeChild(sp);
+}
+
+</script>
+<script type="text/javascript">
+
+	//右侧咨询窗 浮层 效果
+	var piaoTabEl=$('.piaotab');
+	piaoTabEl.find('.piaotabn2').mouseenter(function(){
+		$(this).find('.piaotab1-pic').show();
+	}).mouseleave(function(){
+		$(this).find('.piaotab1-pic').hide();
+	});
+	piaoTabEl.find('.piaotabn1').mouseenter(function(){
+		$(this).find('.piaotab1-pic1').show();
+	}).mouseleave(function(){
+		$(this).find('.piaotab1-pic1').hide();
+	});
+	 
+</script>
+<script type="text/javascript">
+$(function(){
+   var topNavWrap=$('.xiaobaotitle'),
+	   fxkAtplEl=topNavWrap.find('a').filter('.fxk-atpl');
+	var topNavWrap=$('.xiaobaotitle');
+	fxkAtplEl.click(function(){
+		fxkAtplEl.removeClass('ton');
+		$(this).addClass('ton');
+	});
+	var xuanxiangkatit=$('.xuanxiangkatit');
+	xuanxiangkatit.find('a').click(function(evt){
+		if($('html,body').scrollTop() < 550){
+			$('html,body').animate({ scrollTop: '550px' },500);
+			fxkAtplEl.removeClass('ton');
+			fxkAtplEl.eq(1).addClass('ton');
+			evt.preventDefault();
+		}
+	});
+
+	var botMobDown=$('#bot-mob-down'),
+		tanchuk=$('#tanchuk');
+	botMobDown.click(function(evt){
+		tanchuk.show();
+		evt.stopPropagation();
+	});
+
+//	$(window).scroll(function(){
+//		var winScrollHeight=$(window).scrollTop(),
+//			botMobDownOffsetHeight=botMobDown.offset().top,
+//			botMobDownTop=botMobDownOffsetHeight - winScrollHeight;
+//		//console.info(tanchukTop);
+//		if(botMobDownTop < 160){
+//			tanchuk.css('top','3360px')
+//		}else{
+//			tanchuk.css('top','3220px')
+//		}
+//	});
+
+	var mntyEl=$('.mnty'),
+      mntyMask=$('.mnty-mask'),
+      imgErr = $('.imgcode-err', mntyEl),//图形验证码失效
+      step1El = $('.mnty-step-1',mntyEl),//页面1
+      step2El = $('.mnty-step-2',mntyEl),//页面2
+	  mntyHeadClose=$('.mnty_head_close',mntyEl),
+	  btnReget = $('.code-reget', mntyEl),//重新获取验证码
+	  btnGetCode = $('.f-getcode', mntyEl),//获取验证短信
+      captchaValEl=$('.captcha-val',mntyEl), //验证码输入框
+      mobileEl = $('.mobile-val',mntyEl), //手机号
+      codeEl = $('.code-val',mntyEl), //手机验证码
+      captchaImgEl=$('.captcha-img',mntyEl), //验证码图
+      seconds = 60,//60秒内不能重新获取
+      timer = null;
+  var captchaKey=0;
+  var updateCaptchaKey=function(){
+        var now=new Date();
+        captchaKey=Math.ceil(now.getTime()/1000);
+        captchaImgEl.attr('src','/DemoAccount/GetCodeImg?key='+captchaKey);
+    };
+	topNavWrap.find('.experience-btn').click(function(evt){
+		updateCaptchaKey();
+		mntyEl.show();
+		evt.preventDefault();
+		evt.stopPropagation();
+	});
+	//点击图片更换地址
+	mntyEl.on('click','.change-captcha-l,.captcha-img',function(evt){
+	    updateCaptchaKey();
+	    evt.preventDefault();
+	});
+	//点击按钮进入体验
+  mntyEl.on('keydown','.captcha-val',function(eve){
+    if(eve.keyCode == 13){
+      mntyEl.find('.f-sub').trigger('click');
+    }
+  });
+  var getCode = function(){
+	  var captchaVal=$.trim(captchaValEl.val());
+      var mobileVal=$.trim(mobileEl.val());
+	  $.ajax({
+          "type":"post",
+          "dataType":"json",
+          "url":"DemoAccount/BuildValidateCode",
+            "data":{
+                "key":captchaKey,
+                "imgcode":captchaVal,
+                "mobile":mobileVal
+            },
+            "success":function(responseData){
+                if(responseData.success) {
+                	step1El.hide();
+                	$('.mnty-mobile', step2El).html(mobileVal);
+                	imgErr.hide();
+                	btnReget.addClass('grey');
+                	btnGetCode.addClass('grey');
+                	timer = setInterval(function(){
+                		seconds--;
+	                	if(seconds>0) {
+	                		btnReget.html('重新发送(' + seconds +')');
+	                		btnGetCode.val('获取验证短信(' + seconds + ')');
+		                } else {
+		                	seconds = 60;
+		                	btnReget.html('重新发送').removeClass('grey');
+		                	btnGetCode.val('获取验证短信').removeClass('grey');
+		                	clearInterval(timer);
+		                	timer = null;
+			            }
+	                }, 1000);
+                	step2El.show();
+		        } else {
+					switch($.trim(responseData.error)) {
+					case '001':
+						alert('手机格式不正确');
+						break;
+					case '004':
+						alert('两次获取验证码的间隔不能少于1分钟');
+						break;
+					case '005':
+						if(step1El.css('display')!='none') {
+							alert('图形验证码不正确');
+						} else {
+							step1El.show();
+							step2El.hide();
+							updateCaptchaKey();
+							imgErr.show();
+							captchaValEl.val('').get(0).focus();
+						}
+						break;
+					}
+			    }
+            },
+            "error":function(){
+                alert('网络繁忙，请重试。');
+            }
+      });
+  };
+	mntyEl.on('click','.f-sub',function(evt){
+      var codeVal=$.trim(codeEl.val());
+      var mobileVal=$.trim(mobileEl.val());
+      if(codeVal.length>0&&codeVal!="请输入验证码"){
+          $.ajax({
+              "type":"post",
+              "dataType":"json",
+              "url":"/DemoAccount/LoginEx",
+                "data":{
+                    "key":captchaKey,
+                    "validateCode":codeVal,
+                    "mobile":mobileVal,
+                    "source":3
+                },
+                "success":function(responseData){
+                    var gotoUrl;
+                    if(responseData.success){
+                        gotoUrl=responseData.data;
+                        location.href="index.htm"/*tpa=http://www.51lick.com/*/+gotoUrl;
+                    }else{
+                        alert('登录失败，'+responseData.error);
+                    }
+                },
+                "error":function(){
+                    alert('网络繁忙，请重试。');
+                }
+          });
+      }
+      evt.preventDefault();
+  }).on('click', '.f-getcode', function(){
+	  if(!btnGetCode.hasClass('grey')) {
+		  var captchaVal=$.trim(captchaValEl.val());
+	      var mobileVal=$.trim(mobileEl.val());
+	      if(mobileVal.length>0&&mobileVal!='请输入手机号码'&&captchaVal.length>0&&captchaVal!="请输入右侧字符"){
+	    	  getCode();
+	      }
+      }
+	}).on('click', '.code-reget', function(){
+		if(!btnReget.hasClass('grey')) {
+			getCode();
+		}
+	}).on('blur','.captcha-val',function(){
+	         var captchaVal=$.trim(captchaValEl.val());
+	         if(captchaVal.length==0){
+	         	captchaValEl.val('请输入右侧字符');
+			     captchaValEl.css('color','#C8C8C8');
+	         }
+	}).on('click','.captcha-val',function(){
+	         var captchaVal=$.trim(captchaValEl.val());
+	         if(captchaVal=='请输入右侧字符'){
+	           captchaValEl.val('');
+			       captchaValEl.css('color','#000000');
+	           }
+	}).on('blur','.mobile-val',function(){
+        var mobileVal=$.trim(mobileEl.val());
+        if(mobileVal.length==0){
+        	mobileEl.val('请输入手机号码');
+        	mobileEl.css('color','#C8C8C8');
+        }
+	}).on('click','.mobile-val',function(){
+	        var mobileVal=$.trim(mobileEl.val());
+	        if(mobileVal=='请输入手机号码'){
+	        	mobileEl.val('');
+			    mobileEl.css('color','#000000');
+	        }
+	}).on('blur','.code-val',function(){
+        var codeVal=$.trim(codeEl.val());
+        if(codeVal.length==0){
+        	codeEl.val('请输入验证码');
+        	codeEl.css('color','#C8C8C8');
+        }
+	}).on('click','.code-val',function(){
+	        var codeVal=$.trim(codeEl.val());
+	        if(codeVal=='请输入验证码'){
+	        	codeEl.val('');
+			    codeEl.css('color','#000000');
+	        }
+	}).on('click', '.code-change', function(){
+		step1El.show();
+		step2El.hide();
+		updateCaptchaKey();
+		mobileEl.val('').get(0).focus();
+		captchaValEl.val('请输入右侧字符');
+	});
+	mntyHeadClose.click(function(evt){
+		mntyEl.hide();
+		evt.preventDefault();
+	});
+	$(document).click(function(){
+		mntyEl.hide();
+		tanchuk.hide();
+	});
+	mntyEl.click(function(evt){
+		evt.stopPropagation();
+	});
+});
+</script> 
+<script type="text/javascript">
+
+	//右侧咨询窗 浮层 效果
+	var piaoTabEl=$('.piaotab');
+	piaoTabEl.find('.piaotabn2').mouseenter(function(){
+		$(this).find('.piaotab1-pic').show();
+	}).mouseleave(function(){
+		$(this).find('.piaotab1-pic').hide();
+	});
+	piaoTabEl.find('.piaotabn1').mouseenter(function(){
+		$(this).find('.piaotab1-pic1').show();
+	}).mouseleave(function(){
+		$(this).find('.piaotab1-pic1').hide();
+	});
+	 
+</script>
+<script type="text/javascript">
+function alignHeight(eleA,eleB){
+  if(!document.getElementById(eleA)){return false;}
+  if(!document.getElementById(eleB)){return false;}
+  var heightA = document.getElementById(eleA).clientHeight;
+  var heightB = document.getElementById(eleB).clientHeight;
+  if(heightA > heightB){
+    document.getElementById(eleB).style.height = heightA + "px";
+    document.getElementById(eleA).style.height = heightA + "px";
+  }else{
+    document.getElementById(eleA).style.height = heightB + "px";
+    document.getElementById(eleB).style.height = heightB + "px";
+  }
+}
+window.onload =
+function z_align(){
+  alignHeight("conl","conr"); //只需将需要对齐的两个模块的id写在此处即可。
+//alignHeight("AAA","BBB") 可依此连续多组。
+}
+</script>
+
+<!--<script type="text/javascript">
+    var randomNum=new Date()/1;
+    document.write(unescape("%3Cscript src='./statistics/common.js?v="+randomNum+"' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff57c6a7902fa9e2e25e18c371c811745' type='text/javascript'%3E%3C/script%3E"));
+</script>-->
+<!--脉可寻公司 测试广告平台-->
+<!--<script type="text/javascript" src="../a.ad7.com/js/i.js-uid=huy" id="_mutmzc"></script> -->
+</body>
+</html>

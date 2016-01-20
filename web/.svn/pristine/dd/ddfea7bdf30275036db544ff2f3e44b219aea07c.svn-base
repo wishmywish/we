@@ -1,0 +1,795 @@
+
+@charset "utf-8";
+html {
+}
+body {
+    background: url("about:blank") repeat fixed 0 0 rgba(0, 0, 0, 0);
+    color: #646464;
+    font-family: Microsoft Yahei,宋体,tahoma,arial;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+img {
+    border: medium none;
+}
+ul, ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    font-family: Microsoft Yahei,宋体,tahoma,arial;
+    list-style-position: outside;
+    list-style-type: none;
+}
+select, input, img, select {
+    vertical-align: middle;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Microsoft Yahei,宋体,tahoma,arial;
+    margin: 0;
+    padding: 0;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+.clear {
+    clear: both;
+}
+a {
+    outline: medium none;
+}
+a:active {
+}
+:focus {
+    outline: 0 none;
+}
+p {
+    font-family: Microsoft Yahei,宋体,tahoma,arial;
+    margin: 0;
+}
+#ftop {
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+}
+.header {
+    background: url("../css/image/xiaobao_bannerline.png") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+    height: 70px;
+    margin: 0 auto;
+    width: 100%;
+    z-index: 100000;
+}
+.header1 {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 70px;
+    margin: 0 auto;
+    text-align: center;
+    width: 960px;
+    z-index: 200000;
+}
+img.xiaobaologo {
+    display: block;
+    float: left;
+    height: 56px;
+    margin-top: 7px;
+    padding-left: 35px;
+    width: 224px;
+}
+h3.xiaobaotitle {
+    color: #808080;
+    display: block;
+    float: right;
+    font-size: 15px;
+    font-weight: normal;
+    margin-top: 24px;
+    padding-right: 30px;
+}
+h3.xiaobaotitle a {
+    color: #646464;
+    display: block;
+    float: left;
+    padding: 6px 11px;
+}
+h3.xiaobaotitle a.titlefirst {
+    color: #ffa000;
+}
+h3.xiaobaotitle a:hover {
+    color: #ffa000;
+}
+h3.xiaobaotitle a.ton {
+    color: #ffa000;
+}
+h3.xiaobaotitle a.titlefree {
+    color: #fff;
+}
+h3.xiaobaotitle a.titlereg {
+    background-color: #ffa000;
+    margin-left: 0;
+}
+h3.xiaobaotitle a.titlelogin {
+    background-color: #80a900;
+    margin-left: 11px;
+}
+ul.top_daohang li ul.subnav {
+    display: none;
+}
+ul.top_daohang li:hover ul.subnav {
+    background: url("../css/image/xiaobaotonavbg.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    float: left;
+    height: 159px;
+    left: 50px;
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 25px;
+    width: 111px;
+}
+ul.top_daohang li:hover ul.subnav li {
+    clear: both;
+    height: 27px;
+    line-height: 27px;
+    margin: 0 0 0 1px;
+    padding: 0;
+    text-align: center;
+    width: 109px;
+}
+ul.top_daohang li:hover ul.subnav li a {
+    color: #808080;
+    display: block;
+    font-size: 13px;
+    height: 27px;
+    line-height: 27px;
+    text-align: center;
+    width: 109px;
+}
+ul.top_daohang li:hover ul.subnav li a:hover {
+    background-color: #80bf42;
+    color: #fff;
+    display: block;
+    height: 27px;
+    width: 109px;
+}
+.footer {
+    background-color: #3c4655;
+    height: auto;
+    width: 100%;
+}
+.footer .bottom {
+    height: 650px;
+    margin: 0 auto;
+    width: 800px;
+}
+.footer .bottom ul.bottomnav {
+    color: #a1a1a1;
+    height: 180px;
+    padding-top: 50px;
+    width: 960px;
+}
+.footer .bottom ul.bottomnav li {
+    border-right: 1px solid #808080;
+    float: left;
+/*    height: 200px;
+    width: 159px;*/
+}
+.footer .bottom ul.bottomnav li dl.bottomtitle {
+    font-family: Microsoft Yahei,宋体,tahoma,arial;
+    font-size: 13px;
+    height: 160px;
+    text-align: center;
+    width: 159px;
+}
+.footer .bottom ul.bottomnav li dl.bottomtitle dt {
+    height: 36px;
+    line-height: 36px;
+    margin-bottom: 17px;
+    text-align: center;
+    width: 159px;
+}
+.footer .bottom ul.bottomnav li dl.bottomtitle dt a {
+    color: #a1a1a1;
+}
+.footer .bottom ul.bottomnav li dl.bottomtitle dd {
+    height: 27px;
+    line-height: 27px;
+    margin-left: 0;
+    text-align: center;
+    width: 159px;
+}
+.footer .bottom ul.bottomnav li dl.bottomtitle dd a {
+    color: #a1a1a1;
+}
+.footer .bottom p.bottomgz {
+    color: #a1a1a1;
+    font-size: 15px;
+    height: 31px;
+    line-height: 31px;
+    margin:70px auto;
+    padding-left: 52px;
+    width: 650px;
+}
+.footer .bottom p.bottomgz a {
+    color: #a1a1a1;
+}
+.footer .bottom p.bottomgz a:hover {
+    color: #0080c3;
+}
+.footer .bottom p.bottomxx {
+    color: #a1a1a1;
+    font-size: 12px;
+    line-height: 24px;
+    margin-top: 0px;
+    text-align: center;
+}
+#gotopbtn {
+    bottom: 10px;
+    cursor: pointer;
+    display: none;
+    height: 45px;
+    opacity: 1;
+    position: fixed;
+    right: 0;
+    width: 37px;
+    z-index: 1001;
+}
+#gotopbtn a {
+    background: url("../css/image/extra.png") no-repeat scroll -12px -151px transparent;
+    display: block;
+    font-size: 0;
+    height: 45px;
+    line-height: 0;
+}
+#gotopbtn a:hover {
+    background-position: -70px -151px;
+}
+#gotopbtn span.hddb {
+    color: #7b7b7b;
+    cursor: pointer;
+    font-family: Microsoft Yahei,宋体,tahoma,arial;
+    font-size: 8px;
+}
+.bttj {
+    background-color: #5a6473;
+    height: 120px;
+    width: 100%;
+}
+.bttj .bttjreg {
+    font-size: 15px;
+    height: 48px;
+    margin: 0 auto;
+    padding-top: 37px;
+    width: 960px;
+}
+.bttjanbt {
+    background: url("../css/image/xiaobaotabg.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #ffffff;
+    display: block;
+    font-size: 15px;
+    height: 48px;
+    line-height: 48px;
+    padding-left: 30px;
+    width: 250px;
+}
+.bttjanbt1 {
+    margin-left: 60px;
+}
+.tanchuk {
+    background-color: #f0f0f0;
+    height: 80px;
+    left: 51%;
+    margin-left: -499px;
+    opacity: 0.95;
+    position: absolute;
+    top: 3220px;
+    width: 406px;
+}
+.tanchuk p.tanchuk1 {
+    color: #000;
+    font-size: 13px;
+    height: 18px;
+    line-height: 18px;
+    margin-left: 15px;
+    padding-top: 10px;
+    width: 376px;
+}
+.tanchuk p.tanchuk1 span.tanchuk1s {
+    color: #ff7800;
+    font-size: 16px;
+}
+.tanchuk p.tanchuk2 {
+    color: #000;
+    font-size: 12px;
+    height: 21px;
+    line-height: 21px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    width: 376px;
+}
+.tanchuk p.tanchuk3 {
+    color: #288cdc;
+    font-size: 12px;
+    margin-left: 15px;
+    text-align: right;
+    width: 376px;
+}
+.tanchuk p.tanchuk3 a {
+    color: #288cdc;
+}
+.mnty-wrapper {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 224px;
+    left: 50%;
+    margin-left: -106px;
+    overflow: hidden;
+    position: absolute;
+    top: 406px;
+    width: 288px;
+    z-index: 2000;
+}
+.mnty {
+    background-color: #fff;
+    height: 130px;
+    position: fixed;
+    right: 175px;
+    top: 78px;
+    width: 360px;
+}
+.mnty_head {
+    color: #999;
+    font-size: 14px;
+    height: 35px;
+    line-height: 35px;
+    margin-bottom: 20px;
+    padding-left: 32px;
+    position: relative;
+}
+.mnty_head a {
+    background: url("../css/image/guanbi.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #000;
+    display: block;
+    height: 13px;
+    line-height: 30px;
+    position: absolute;
+    right: 8px;
+    text-decoration: none;
+    width: 13px;
+}
+.mnty_head a:hover {
+    background: url("../css/image/guanbia.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #f60;
+    text-decoration: none;
+}
+table.monitiyan {
+    height: 100px;
+    margin-left: 40px;
+    width: 295px;
+}
+table.monitiyan tr.monitiyann {
+    font-size: 12px;
+    height: 17px;
+}
+table.monitiyan tr.monitiyani {
+    height: 30px;
+}
+table.monitiyan tr.monitiyani input.tjtyip {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    color: #c8c8c8;
+    font-size: 12px;
+    height: 26px;
+    line-height: 26px;
+    padding-left: 10px;
+    width: 174px;
+}
+table.monitiyan tr.monitiyani input.tjtybt {
+    background-color: #4bafe3;
+    border: medium none;
+    color: #fff;
+    cursor: pointer;
+    height: 28px;
+    line-height: 28px;
+    text-align: center;
+    width: 100px;
+}
+table.monitiyan tr.monitiyani img.monitiyaniimc {
+    border: 1px solid #ccc;
+    height: 28px;
+    width: 77px;
+}
+table.monitiyan .change-captcha-l, table.monitiyan .captcha-img {
+    cursor: pointer;
+}
+.mnty-index {
+    background: url("css/images/index_tiyanbg.png?1") no-repeat scroll left top rgba(0, 0, 0, 0);
+    height: 210px;
+    left: 400px;
+    padding: 7px;
+    position: absolute;
+    top: 0;
+    width: 274px;
+}
+.mnty1 {
+    background: url("css/images/index_tiyanbg.png?1") no-repeat scroll left top rgba(0, 0, 0, 0);
+    height: 210px;
+    left: 50%;
+    margin-left: 199px;
+    top: 73px;
+    width: 274px;
+}
+.mnty-index .mnty_head {
+    height: 34px;
+    position: relative;
+}
+.mnty-index .mnty_head a {
+    background: url("../css/image/guanbi.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #000;
+    display: block;
+    height: 13px;
+    line-height: 30px;
+    position: absolute;
+    right: 10px;
+    text-decoration: none;
+    top: 10px;
+    width: 13px;
+}
+.mnty-index .mnty_head a:hover {
+    background: url("../css/image/guanbia.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #f60;
+    text-decoration: none;
+}
+.mnty-index table.monitiyan {
+    height: 100px;
+    margin-left: 32px;
+    width: 295px;
+}
+.mnty-index table.monitiyan tr.monitiyann {
+    font-size: 12px;
+    height: 17px;
+}
+.mnty-index table.monitiyan tr.monitiyani {
+    height: 45px;
+    vertical-align: top;
+}
+.mnty-index table.monitiyan tr.monitiyani input.tjtyip {
+    background-color: #fff;
+    border: 1px solid #a7a7a7;
+    color: #aaa;
+    font-size: 12px;
+    height: 26px;
+    line-height: 26px;
+    padding-left: 10px;
+    width: 194px;
+}
+.mnty-index table.monitiyan tr.monitiyani input.tjtyip.captcha-val {
+    width: 99px;
+}
+.mnty-index table.monitiyan tr.monitiyani input.tjtybt {
+    background-color: #4bafe3;
+    border: medium none;
+    color: #fff;
+    cursor: pointer;
+    height: 30px;
+    line-height: 28px;
+    padding-bottom: 2px;
+    position: absolute;
+    text-align: center;
+    top: -2px;
+    width: 206px;
+}
+.mnty-index table.monitiyan tr.monitiyani input.tjtybt.grey {
+    background-color: #d8d8d8;
+    color: #aaa;
+    cursor: default;
+}
+.mnty-index table.monitiyan tr.monitiyani img.monitiyaniimc {
+    border: 1px solid #ccc;
+    height: 28px;
+    margin-left: 16px;
+    width: 77px;
+}
+.mnty-index table.monitiyan .change-captcha-l, .mnty-index table.monitiyan .captcha-img {
+    cursor: pointer;
+    font-family: "宋体";
+}
+.mnty-index table.monitiyan .change-captcha-l {
+    color: #999;
+    display: inline-block;
+    height: 20px;
+    left: 170px;
+    line-height: 20px;
+    position: relative;
+    text-align: left;
+    top: -10px;
+}
+.mnty-index input:focus {
+    border-color: #fa9838 !important;
+}
+.mnty-index .imgcode-err {
+    color: #dd0453;
+    display: none;
+    font-size: 12px;
+    height: 20px;
+    left: 40px;
+    line-height: 20px;
+    position: absolute;
+    text-align: left;
+    top: 142px;
+}
+.mnty-index .mnty-step-2 {
+    display: none;
+    padding-left: 32px;
+}
+.mnty-index .mnty-step-2 .code-info, .mnty-index .mnty-step-2 .code-ctner, .mnty-index .mnty-step-2 .code-submit {
+    height: 30px;
+    width: 206px;
+}
+.mnty-index .mnty-step-2 .code-info {
+    color: #666;
+    font-size: 12px;
+    height: 20px;
+    line-height: 20px;
+    margin-top: 20px;
+}
+.mnty-index .mnty-step-2 .code-info .mnty-mobile {
+    color: #4bafe3;
+    display: inline;
+    float: none;
+    margin-left: 8px;
+}
+.mnty-index .mnty-step-2 .code-ctner {
+    height: 30px;
+    margin-top: 7px;
+}
+.mnty-index .mnty-step-2 .code-ctner .code-val {
+    background-color: #fff;
+    border: 1px solid #a7a7a7;
+    color: #aaa;
+    font-size: 12px;
+    height: 26px;
+    line-height: 26px;
+    padding-left: 10px;
+    width: 194px;
+}
+.mnty-index .mnty-step-2 .code-submit {
+    margin-top: 11px;
+}
+.mnty-index .mnty-step-2 .code-submit input {
+    background-color: #4bafe3;
+    border: medium none;
+    color: #fff;
+    cursor: pointer;
+    height: 30px;
+    line-height: 28px;
+    padding-bottom: 2px;
+    text-align: center;
+    width: 206px;
+}
+.mnty-index .mnty-step-2 .code-btns {
+    margin-top: 19px;
+}
+.mnty-index .mnty-step-2 .code-btns a {
+    color: #4bafe3;
+    display: inline-block;
+    font-size: 12px;
+    height: 20px;
+    line-height: 20px;
+    margin-left: 11px;
+    text-align: center;
+    text-decoration: underline;
+}
+.mnty-index .mnty-step-2 .code-btns .code-change {
+    float: right;
+    margin-right: 47px;
+}
+.mnty-index .mnty-step-2 .code-btns .code-reget.grey {
+    background-color: #d8d8d8;
+    color: #aaa;
+    cursor: default;
+}
+.mnty-index .mnty-error {
+    display: none;
+    padding: 0 18px;
+}
+.mnty-index .mnty-error-content {
+    color: #444;
+    height: 110px;
+    line-height: 24px;
+}
+.mnty-index .mnty-error-btn {
+    display: block;
+    float: right;
+}
+.mnty-index .mnty-error-btn span {
+    background: none repeat scroll 0 0 #adadad;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 30px;
+    padding: 0 20px;
+}
+.mnty-mask {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    bottom: 0;
+    display: none;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 1999;
+}
+.app-down-panel {
+    bottom: 90px;
+    display: none;
+    position: fixed;
+    right: 3px;
+    width: 35px;
+    z-index: 1000;
+}
+ul.piaotab {
+    height: 80px;
+    position: relative;
+    width: 200px;
+}
+ul.piaotab li.piaotabn2 {
+    background: url("../css/image/fxiaolepanx.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    height: 45px;
+    width: 34px;
+}
+ul.piaotab li.piaotabn2 a.piaotab2 {
+    display: block;
+    height: 45px;
+    position: fixed;
+    width: 34px;
+}
+ul.piaotab li.piaotabn2 a.piaotab2:hover {
+    display: block;
+    height: 45px;
+    width: 34px;
+    z-index: 100000;
+}
+ul.piaotab li.piaotabn2 .piaotab1-pic {
+    background: url("../css/image/fxiaolepanx1.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: inline-block;
+    height: 174px;
+    position: absolute;
+    right: 200px;
+    top: -81px;
+    width: 132px;
+}
+ul.piaotab li.piaotabn2 .piaotab1-pic a {
+    display: block;
+    height: 174px;
+    width: 126px;
+}
+ul.piaotab li.piaotabn1 {
+    background: url("../css/image/fxiaolepans.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    height: 45px;
+    margin-bottom: 3px;
+    width: 34px;
+}
+ul.piaotab li.piaotabn1 a.piaotab1 {
+    display: block;
+    height: 45px;
+    position: fixed;
+    width: 34px;
+}
+ul.piaotab li.piaotabn1 .piaotab1-pic1 {
+    background: url("../css/image/fxiaolepans1.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: inline-block;
+    height: 174px;
+    position: absolute;
+    right: 200px;
+    top: -81px;
+    width: 132px;
+}
+.pop {
+    background: none repeat scroll 0 0 #eee;
+    border: 1px solid #ccc;
+    left: 52%;
+    margin-left: -380px;
+    position: fixed;
+    top: 6.5%;
+    width: 700px;
+    z-index: 10000000;
+}
+.pop_head {
+    background: none repeat scroll 0 0 #ccc;
+    height: 20px;
+    position: relative;
+}
+.pop_head a {
+    color: #000;
+    line-height: 20px;
+    position: absolute;
+    right: 8px;
+    text-decoration: none;
+}
+.pop_head a:hover {
+    color: #f60;
+    text-decoration: none;
+}
+.pop_body {
+    padding: 8px;
+}
+.free-pay-tab {
+    padding-bottom: 20px;
+}
+.free-pay-tab table {
+    background-color: #eeeeee;
+    width: 100%;
+}
+.free-pay-tab table th, .free-pay-tab table td {
+    padding: 10px 5px;
+    text-align: center;
+}
+.free-pay-tab table th {
+    background-color: #f4cd4c;
+    color: #fff;
+    font-weight: normal;
+}
+.free-pay-tab table td {
+    background-color: #fff;
+}
+.s-mask {
+    background: none repeat scroll 0 0 #fff;
+    height: 100%;
+    left: 0;
+    opacity: 0.5;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1999;
+}
+.s-alert {
+    background: none repeat scroll 0 0 #fff;
+    border: 0 none;
+    box-shadow: 0 0 30px #999;
+    display: block;
+    left: 50%;
+    margin-left: -233px;
+    padding: 0;
+    position: fixed;
+    top: 36%;
+    width: 466px;
+    z-index: 2000;
+}
+.s-alert-content {
+    font-size: 14px;
+    line-height: 22px;
+    padding: 45px 70px 20px;
+    text-align: center;
+    word-wrap: break-word;
+}
+.s-alert-content-msg {
+    color: #444;
+    padding-bottom: 30px;
+}
+.s-alert-button {
+    text-align: center;
+}
+.s-alert-button span {
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+    box-shadow: none;
+    color: #bababa;
+    cursor: pointer;
+    display: inline-block;
+    float: none;
+    height: 28px;
+    line-height: 28px;
+    padding: 0 24px;
+}

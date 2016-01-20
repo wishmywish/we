@@ -1,0 +1,141 @@
+<!DOCTYPE HTML>
+<HTML lang=en>
+    <HEAD>
+        <title>小宝招商 全国第一招商众包网络平台 利伊享 日思夜享数据科技有限公司  </title>
+        <!--<META name=GENERATOR content="MSHTML 9.00.8112.16636"/>-->
+        <META http-equiv="X-UA-Compatible" content="IE=9" >
+        <!--<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/aa1ade851fb06f625df7b62a7df29203/allmobilize.min.js"></script><meta http-equiv="Cache-Control" content="no-transform" />-->
+        <LINK rel=alternate href="#" media=handheld><!--<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/aa1ade851fb06f625df7b62a7df29203/allmobilize.min.js"></script>-->
+        <META content="text/html; charset=utf-8" http-equiv=Content-Type>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <META name=author content="日思夜享 小宝招商,杭州利伊享数据科技有限公司"/>
+        <meta name="keywords" content="招商外包,招商服务,低成本招商,网络招商,营销人,兼职,众包招商,第一招商 " />
+        <meta name="description" content="小宝招商，全国最大的移动互联网招商外包平台，汇聚天下百万营销人员，快准低成本帮助企业招到全国客户，先期低成本，精准招商，按成果付费，担保交易，免费宣传" />
+
+        <META content=no-transform http-equiv=cache-control>
+        <link type="image/x-icon" href="/favicon.ico" rel="icon">
+        <link type="image/x-icon" href="/favicon.ico" rel="shortcut icon">
+        <LINK rel=stylesheet type=text/css href="css/home.css">
+        <LINK rel=stylesheet type=text/css href="css/index.css">
+
+<!--        <LINK rel=stylesheet type=text/css href="css/index1.css">-->
+<!--        <LINK rel=stylesheet type=text/css href="css/bootstrap.css">-->
+        <SCRIPT type=text/javascript src="js/jquery-1.11.2.min.js"></SCRIPT>
+        <SCRIPT type=text/javascript src="js/jquery.easing.js"></SCRIPT>
+        <SCRIPT type=text/javascript src="js/downtime.js"></SCRIPT>
+        <SCRIPT type=text/javascript src="js/jquery.nav.js"></SCRIPT>
+        <style>
+        	.wh{width: 100%;}
+        </style>
+	</head>
+	<body>
+		<div class="wh" style="height:1044px;background: url('img/tjh/2-01_01.jpg') no-repeat scroll center center;"></div>
+		<div class="wh" style="height:879px;background: url('img/tjh/2-01_02.jpg') no-repeat scroll center center;"></div>
+		<div class="wh" style="height:1065px;background: url('img/tjh/2-01_03.jpg') no-repeat scroll center center;"></div>
+		<div class="wh" style="height:948px;background: url('img/tjh/2-01_04.jpg') no-repeat scroll center center;"></div>
+		<div class="wh" style="height:969px;background: url('img/tjh/2-01_05.jpg') no-repeat scroll center center;"></div>
+		<div class="wh" style="height:977px;background: url('img/tjh/2-01_06.jpg') no-repeat scroll center center;"></div>
+		<div class="wh" style="height:1185px;background: url('img/tjh/2-01_07.jpg') no-repeat scroll center center;"></div>
+		<div class="wh" style="height:1446px;background: url('img/tjh/2-01_08.jpg') no-repeat scroll center center;"></div>
+		<div class="wh" style="height:792px;background: url('img/tjh/2-01_09.jpg') no-repeat scroll center center;"></div>
+		<div class="wh" style="height:927px;background: url('img/tjh/2-01_10.jpg') no-repeat scroll center center;"></div>
+		<!------------------------------顶条菜单  start------------------------------->
+        <DIV id=ftop class=header>
+            <A href="index.html">
+                <IMG class=xiaobaologo alt="" src="img/xiaobao_logo.png">
+            </A>
+            <H3 class=xiaobaotitle>
+                <A class="xiaobao-atpl ton" href="index.html">首页</A>
+                <A class=xiaobao-atpl href="productone.html">产品</A>
+                <!--<A class=xiaobao-atpl href="javascript:;">案例</A>-->
+<!--                <A class=xiaobao-atpl href="javascript:;">新闻</A>-->
+                <A class=xiaobao-atpl id="download" href="shoujiapp.html">下载</A>
+                <A class=xiaobao-atpl href="jobus.html">加盟我们</A>
+                <A class=xiaobao-atpl href="tjh.html">企业招商</A>
+                <A class=xiaobao-atpl href="shoujidown.html">创客入驻</A>
+                <A class=xiaobao-atpl href="contact.html">联系我们</A>
+                <A class=xiaobao-atpl href="javascript:;" id="more">
+                    更多
+                    <div class="morecontent" style="display:none;">
+                        <ul>
+                            <li>关于我们</li>
+                            <li>产品&服务</li>
+                            <li>合伙人体系</li>
+                            <li>天地汇</li>
+                            <li>加入我们</li>
+                        </ul>
+                    </div>
+                </A>
+<!--                <A class=xiaobao-atpl href="manage.html">经销商</A>-->
+                <SPAN  style="POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; FLOAT: left; PADDING-TOP: 0px; TOP: 5px">|</SPAN>
+                <A style="COLOR: #288cdc" id=login_4_tj  href="http://wisdom.51lick.com" target="_blank">登录</A>
+            </H3>
+            <DIV class=clear></DIV>
+        </DIV>
+        <!------------------------------顶条菜单  end------------------------------>
+        <!-- 回到顶部 start-->
+        <DIV id=gotopbtn>
+            <A href="javascript:void(0);">回到顶部</A>
+            <SPAN class=hddb></SPAN>
+        </DIV>
+        <!-- 回到顶部 end-->
+	</body>
+	<script>
+			   $(".morecontent").find('li').eq(0).click(function(){
+                location.href="about.html";
+            });
+               $(".morecontent").find('li').eq(1).click(function(){
+                location.href="productone.html";
+            });
+               $(".morecontent").find('li').eq(2).click(function(){
+                location.href="partner.html";
+            });
+               $(".morecontent").find('li').eq(3).click(function(){
+                location.href="tiandihui.html";
+            });
+               $(".morecontent").find('li').eq(4).click(function(){
+                location.href="jobus.html";
+            });
+            $("#more").mouseover(function(){
+                $(".morecontent").show();
+            })
+            $("#more").mouseout(function(){
+                $(".morecontent").hide();
+            })
+	
+	
+		var backtopEl = $('#gotopbtn');
+                var winEl = $(window);
+                winEl.scroll(function () {
+                    var scrollTop = winEl.scrollTop();
+                    if (scrollTop > 0) {
+                        backtopEl.show();
+                    } else {
+                        backtopEl.hide();
+                    }
+                });
+                backtopEl.click(function () {
+                    $('html,body').animate({scrollTop: '0px'}, 500);
+                });
+	</script>
+	<script>
+            var _hmt = _hmt || [];
+            (function() {
+                  var hm = document.createElement("script");
+                  hm.src = "//hm.baidu.com/hm.js?f335e25999adbe52df267df2890c6b19";
+                  var s = document.getElementsByTagName("script")[0];
+                  s.parentNode.insertBefore(hm, s);
+              })();
+        </script>
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+                var hm = document.createElement("script");
+                hm.src = "//hm.baidu.com/hm.js?24bdaf8ed0502b9290e557294dff8bf8";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+            })();
+        </script>
+    <div style="display: none"><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1256709519'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/z_stat.php%3Fid%3D1256709519' type='text/javascript'%3E%3C/script%3E"));</script></div>
+
+</html>

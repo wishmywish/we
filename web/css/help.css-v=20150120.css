@@ -1,0 +1,111 @@
+@charset "utf-8";
+#ftop1{ position:fixed; top:0px; z-index:1000;  _position:absolute; _top:expression(offsetParent.scrollTop); _left:expression(offsetParent.scrollLeft); float:left;}
+#ftop { position:fixed; top:0px; z-index:1000; _position:absolute; _top:expression(offsetParent.scrollTop); _left:expression(offsetParent.scrollLeft); float:left;}
+.container { width:960px; height:auto; background-color:#FFF; margin:0 auto; }
+
+.container .containerl { width:200px; height:auto; float:left; display:inline; background-color:#F0F0F0; }
+.container .containerl ul.helenav { width:200px; margin-top:100px; }
+.container .containerl ul.helenav li { width:200px; text-align:center; height:44px; line-height:44px; font-size:18px; color:#828081; }
+.container .containerl ul.helenav li a { color:#828081; display:block; }
+.container .containerl ul.helenav li a:hover { color:#F48129; display:block; }
+
+.container .containerr { width:720px; height:auto; float:left; display:inline; margin-left:35px; }
+.container .containerr .dotitle { width:720px; height:58px; float:left; margin-bottom:54px; margin-top:38px; }
+.container .containerr .dotitle span.dotitlen { display:block; float:left;  }
+.container .containerr .dotitle span.dotitlel { width:15px; height:58px; background:url("../image/fxiaokedobutton.png")/*tpa=http://www.fxiaoke.com/image/fxiaokedobutton.png*/ no-repeat 0px 0px; }
+.container .containerr .dotitle span.dotitlec { width:690px; height:58px; background-color:#80be42; font-size:30px; color:#FFF; text-align:center; line-height:58px; }
+.container .containerr .dotitle span.dotitler { width:15px; height:58px; background:url("../image/fxiaokedobutton.png")/*tpa=http://www.fxiaoke.com/image/fxiaokedobutton.png*/ no-repeat 0px -59px; }
+.container .containerr dl.kehucf { width:720px; height:auto; margin-top:0px; }
+.container .containerr dl.kehucf dt { width:80px; height:94px; float:left; display:inline; }
+.container .containerr dl.kehucf dt img { width:80px; height:94px; }
+.container .containerr dl.kehucf dd { width:623px; height:auto; float:right; display:inline; margin-left:7px; }
+.fxiaokedolinetop1 { border-left:#80be42 solid 1px; border-right:#80be42 solid 1px; height:auto; width:611px; margin-left:10px; margin-top:0px; margin-bottom:0px; }
+.fxiaokedolinetop1 p { line-height:23px; color:#808080; font-size:13px; width:580px; padding-left:15px; margin:0px; }
+.container .containerr dl.kehucf1 { width:720px; height:auto; margin-top:0px; }
+.container .containerr dl.kehucf1 dt { width:80px; height:94px; float:right; display:inline; margin-left:7px; margin-top:30px; }
+.container .containerr dl.kehucf1 dt img { width:80px; height:94px; }
+.container .containerr dl.kehucf1 dd { width:623px; height:auto; float:left; display:inline; margin-left:0px; margin-top:30px; }
+.doneirong { width:720px; height:auto; margin-bottom:34px; margin-top:10px; }
+.doneirong p.doneirongn { width:720px; font-size:14px; color:#333; line-height:26px; margin:0px; }
+.doneirong p.doneirongntop{ font-size:18px; color:#F48129;  margin:0px; margin-bottom:20px; }
+h4 { color:#80BF42; font-weight:bold; font-size:21px; margin-bottom:20px; }
+h4 span.titlelogo { width:145px; height:47px; line-height:47px; }
+h4 span.titlelogo img { width:145px; height:47px; }
+.donrbottom { width:720px; height:auto; margin-bottom:50px; margin-top:35px; }
+.donrbottom p.donrbottomn { width:720px; font-size:16px; color:#333; line-height:28px; margin:0px; margin-bottom:30px; }
+
+
+.container .containerr .button { width:400px; height:40px; margin-bottom:100px; margin-left:160px; }
+
+.dobottom { float:left; display:inline; width:165px; margin-left:25px; }
+.dobottom span.dobottomn { display:block; float:left;  }
+.dobottom span.dobottoml { width:10px; height:40px; background:url("../image/fxiaokedobutton.png")/*tpa=http://www.fxiaoke.com/image/fxiaokedobutton.png*/ no-repeat 0px -118px; }
+.dobottom span.dobottomc { width:145px; height:40px; background-color:#80be42; font-size:16px; color:#FFF; text-align:center; line-height:40px; }
+.dobottom span.dobottomr { width:10px; height:40px; background:url("../image/fxiaokedobutton.png")/*tpa=http://www.fxiaoke.com/image/fxiaokedobutton.png*/ no-repeat 0px -159px; }
+/* 幻灯片*/
+#slides { width:720px; height:450px; position:relative; }
+#slides .next, #slides .prev { position:absolute; top:160px; left:0px; width:80px; height:80px; display:block; z-index:101; }
+.slides_container { width:720px; height:405px; overflow:hidden; position:relative; }
+#slides .next { left:640px; }
+
+.pagination { margin:26px auto 0; width:180px; }
+.pagination li { float:left; margin:0 10px; }
+.pagination li a { display:block; width:12px; height:0; padding-top:12px; background-image:url("../image/pagination.png")/*tpa=http://www.fxiaoke.com/image/pagination.png*/; background-position:0 0; float:left; overflow:hidden; }
+.pagination li.current a { background-position:0 -12px; }
+
+
+/*安全页面*/
+.securitybg{ width:100%; height:351px; background-color:#DEDFDC; margin-bottom:42px;}
+.securitybg .securitybgpic{ width:960px; height:351px; margin:0 auto; }
+.securitybg .securitybgpic img{ width:960px; height:351px;}
+
+.container h5{ color:#646464; font-size:18px; line-height:30px; font-weight:normal; margin-left:40px;}
+dl.securitynr{ width:880px; height:auto; margin-left:40px; }
+dl.securitynr dt{width:880px; height:32px; background-color:#eee; font-size:18px; font-weight:bold; color:#F5931F; line-height:32px; margin-bottom:13px;}
+dl.securitynr dd{width:880px; height:auto; display:block;  margin-left:0px;}
+dl.securitynr dd img{ width:145px; height:168px; float:left; display:block; margin-left:0px;}
+dl.securitynr dd .ecurityxx{ width:715px; height:auto; margin-left:20px; float:left; display:block; }
+dl.securitynr dd .ecurityxx p{ font-size:13px; line-height:24px; color:#646464; margin:0px; padding-bottom:10px;}
+.button1{ width:400px; height:40px; margin:70px 0px 50px 300px;}
+
+
+/*视频页面*/
+.videoimg{ width:100%; height:297px;  background:#c3ccdd url("../image/vedioimg.jpg")/*tpa=http://www.fxiaoke.com/image/vedioimg.jpg*/ no-repeat center center; margin-bottom:15px;}
+.videoimg .videoimg1{width:960px; height:297px; margin:0 auto; position:relative; }
+.videoimg .videoimg1 img.vediobt{ width:266px; height:40px; position:absolute; left:546px; top:206px;}
+.vediody{ width:960px; height:100px; background-color:#f9f9f9;margin-bottom:15px;}
+
+.vediody p.vediodyp{ color:#646f77; font-size:15px; font-family:Microsoft Yahei,宋体,tahoma,arial; line-height:30px; width:870px; height:60px; padding:20px 0px 0px 15px; margin:0px; }
+.vediomain{ width:960px; height:auto; margin-bottom:20px;}
+.vediomain h3{ width:960px; height:40px; background:url("../image/vedioline.jpg")/*tpa=http://www.fxiaoke.com/image/vedioline.jpg*/ no-repeat center bottom; line-height:38px; color:#000; font-size:18px; font-weight:550; margin-bottom:24px;}
+.vediomain ul.vediomainsp{ width:960px; height:auto;}
+.vediomain ul.vediomainsp li{ width:191px; height:141px; position:relative; float:left; display:inline; margin-left:65px;margin-bottom:24px;}
+.vediomain ul.vediomainsp li img{ width:191px; height:141px; }
+.vediomainsptitle{ font-family:宋体; font-size:14px; color:#FFF; width:191px; height:40px; text-align:center; line-height:40px;  position:absolute; left:0px; top:101px;filter:alpha(Opacity=80);-moz-opacity:0.5;opacity: 0.5;z-index:100; background-color:#000000; }
+.vediomainsptitle i{ color:#ff8000; font-style:normal;}
+.vediomainspnr{width:191px; height:141px; background:url("../image/vediotap1.png")/*tpa=http://www.fxiaoke.com/image/vediotap1.png*/ no-repeat;position:absolute; left:0px; top:0px;}
+
+
+.vediomainspnr p{font-family:宋体; font-size:12px; color:#FFF; line-height:18px; width:177px; padding:12px 0px 0px 9px; margin:0px; height:105px; text-align:justify;text-justify:inter-ideograph }
+.vediomainspnr img.vediobt{ width:52px; height:14px;  margin-left:9px; display:block; }
+
+/*视频样式*/
+.pop { position:fixed;  _position:absolute; left:52%;  margin-left:-380px;  top:6.5%; width:700px; height:517px;background:#eee; border:1px solid #ccc; z-index:10000000; }
+.pop_head { position:relative; height:20px; background:#ccc }
+.pop_head a { position:absolute; right:8px; line-height:20px; color:#000; text-decoration:none }
+.pop_head a:hover { color:#f60; text-decoration:none }
+.pop_body { padding:8px }
+.vediomainsp li{cursor:pointer;}
+/*下载专区*/
+.videoimg{ width:100%; height:126px;  background:#ff9600 url("../image/chanppic1.png")/*tpa=http://www.fxiaoke.com/image/chanppic1.png*/ no-repeat center center; margin-bottom:30px;}
+.duanxin{ width:960px; margin:0 auto; height:auto; margin-bottom:20px; position:relative}
+.duanxin h4.contit1{ height:25px; font-size:25px; font-weight:lighter; color:#646464; }
+.duanxin p.conneir1{width:960px; font-size:14px; line-height:26px; margin-bottom:15px; text-align:justify;text-justify:inter-ideograph }
+.duanxin p.conneir3{ position:relative}
+a.liaojie{ display:block; width:100px; height:32px; line-height:32px; text-align:center; font-size:13px; color:#646464; background-color:#EBEBEB; float:left; position:absolute; left:380px; bottom:60px; }
+
+.conneir22{ width:960px; height:auto; float:left; display:inline;padding-bottom:20px; border-bottom:#999 solid 1px; margin-bottom:25px;}
+.conneir22 .conneir2l{ width:150px; height:auto; float:left; display:inline;}
+.conneir22 .conneir2r{ width:810px; height:auto; float:right; display:inline;}
+.conneir22 .conneir2r ul.conneir2n{ height:auto}
+.conneir22 .conneir2r ul.conneir2n li{ margin-bottom:18px;}

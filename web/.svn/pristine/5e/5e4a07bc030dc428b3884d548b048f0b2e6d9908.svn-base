@@ -1,0 +1,711 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html >
+<head>                                                        
+<!--<script id="allmobilize" charset="utf-8" src="../a.yunshipei.com/aa1ade851fb06f625df7b62a7df29203/allmobilize.min.js" ></script>-->
+<meta http-equiv="Cache-Control" content="no-transform" />
+<link rel="alternate" media="handheld" href="#" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>小宝招商 全国第一招商众包网络平台 利伊享 日思夜享数据科技有限公司  </title>
+ <META name=author content="日思夜享 小宝招商,杭州利伊享数据科技有限公司"/>
+<meta name="keywords" content="招商外包,招商服务,低成本招商,网络招商,营销人,兼职,众包招商,第一招商 " />
+<meta name="description" content="小宝招商，全国最大的移动互联网招商外包平台，汇聚天下百万营销人员，快准低成本帮助企业招到全国客户，先期低成本，精准招商，按成果付费，担保交易，免费宣传" />
+<link href="css/home.css-3.css"  rel="stylesheet" type="text/css" />
+<link href="css/about.css"  rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="header" id="ftop">
+  <!--模拟体验-->
+<div class="mnty mnty-index mnty1" style="display:none;"><!----------------------------隐藏--------------------------->
+<div class="mnty_head">模拟体验帐号<a class="mnty_head_close" href="javascript:void(0);"></a></div>
+<table cellspacing="0" class="monitiyan mnty-step-1">
+    <tr class="monitiyani"><td colspan="2" style="width:208px;"><input value="请输入手机号码" class="tjtyip mobile-val" /></td></tr>
+    <tr class="monitiyani"><td colspan="2" style="width:111px;">
+    <input value="请输入右侧字符" class="tjtyip captcha-val" /><img class="monitiyaniimc captcha-img" src="img/clear.gif"  /></td>
+    </tr>
+   <tr class="monitiyann" style="*position:relative;*top:-10px;"><td colspan="2"><a class="change-captcha-l" href="#" onclick="return false;">换一张</a></td></tr>
+   <tr class="monitiyani" style="*position:relative;*top:-15px;"><td colspan="2" style="width:208px;"><div style="position: relative;"><input type="button" value="获取验证短信" class="tjtybt f-getcode" /></div></td>
+  </tr>
+</table>
+<div class="mnty-step-2">
+   <div class="code-info">验证短信已发送至<span class="mnty-mobile"></span></div>
+   <div class="code-ctner"><input value="请输入验证码" class="tjtyip code-val" /></div>
+   <div class="code-submit"><input type="button" value="立即体验" class="tjtybt f-sub" /></div>
+   <div class="code-btns"><a href="#" onclick="return false;" hidefocus="" class="code-reget">重新发送(60)</a><a href="#" onclick="return false;" hidefocus="" class="code-change">换个号码</a></div>
+</div>
+<div class="imgcode-err">验证码已过期，请重新输入</div>
+</div>
+  <div class="header1">
+      <a href="index.html">
+          <img src="img/xiaobao_logo.png"  alt="" class="xiaobaologo" style="padding-left:0px;" />
+      </a>
+<h3 class="xiaobaotitle" style=" padding-right:0px;"> 
+    <a href="index.html" >返回首页</a> 
+<!--    <a class="titlefree experience-btn" style="background-color:#FFA000; margin-left:0px;" href="#" onclick="return false;">模拟体验</a> 
+    <a class="titlefree titlelogin" href="xiaoke/pc/reg.html" tppabs="http://www.xiaobao.com/xiaoke/pc/reg.html">快速注册</a> -->
+</h3>
+</div>
+  <div class="clear"></div>
+</div>
+<div style=" height:70px;"></div>
+<div class="videoimg3"> </div>
+<div class="container">
+  <div class="conl" id="conl">
+    <ul class="conltit">
+<!--      <li><a href="joinus.html" >团队文化 </a></li>-->
+      <li><a href="jobus.html" class="clik">招聘职位</a></li>         
+        <li><a href="#a1" class="clik">研发中心</a></li>
+        <li><a href="#a2" class="clik">管理中心</a></li>
+        <li><a href="#a3" class="clik">智慧招商</a></li>
+    </ul>
+  </div>
+  <div class="conr" id="conr"> 
+    <h4 class="contit" style=" font-size:20px;">欢迎加入利伊享Family，We want you!</h4>
+<!--    <img src="img/" style=" margin:0px 0px 30px 0px;" />-->
+    <h4 class="contit" style=" font-size:20px;">招聘职位</h4>
+<!--    <h5 id="a1">运营中心</h5>
+    <p class="conneir">
+
+	    <b>【App运营主管】</b><br />
+		工作职责：<br />
+		1、负责App的运营和推广工作，制定产品运营规划，完成公司制定的推广指标；<br />
+                2、通过网络和线下手段进行APP推广，实现下载量、安装量、留存率、活跃度目标；<br />
+                3、推广公司安卓、IOS手机应用到各大安卓、IOS市场，网站以及论坛，获取推广的应用最大下载量；<br />
+                4、微博微信等平台日常信息发布及维护管理；<br />
+                5、对市场进行分析，策划和实施市场营销方案；<br />
+                6、分析项目、用户需求，提出需求或改进意见。<br />
+                7、订立与完善工作流程与制度规范，科学管理营销团队，并对团队成员和相关部门进行培训和指导。<br />
+		任职要求：<br />
+		1、 有两年以上APP运营推广经验；<br />
+                2、熟悉互联网、移动互联网运作模式，对微博、软文、app营销等较为熟悉，有营销资源；<br />
+                3、思维方式具创新性，具备很强的策划能力，有独到的市场眼光和快速的执行能力；<br />
+                4、熟悉各类营销工具的特色和使用方式，对各种新营销手段非常敏感，拥有广泛的媒体人脉。<br />
+	</p>
+    <p class="conneir">
+	   	-------------------------------------------------------------------------------------------<br />
+		<b>【社区运营主管】</b><br />
+
+		1、负责社区平台的运营及管理工作；<br />
+                2、负责制定和执行社区运营策略，提升社区用户的活跃与留存。<br />
+		岗位要求：<br />
+		1、两年以上社区类产品运营经验，具备较强的综合运营能力（内容/用户/活动）；<br />
+                2、具备较强的数据分析能力，对社区运营有自己独到的见解；<br />
+                3、具备主动做事的心态，性格开朗，以及较强的抗压能力；<br />
+                4、有知名社区运营经验者优先 <br />
+	</p>
+    <p class="conneir">
+	   	-------------------------------------------------------------------------------------------<br />
+		<b>【销售经理】</b><br />
+		主要职责与工作任务：<br />
+		1、熟悉渠道销售，或者有快消品渠道销售经验者优先。<br />
+                2、严格遵守公司各项规章制度，和各部门密切配合完成工作；<br />
+                3、在总经理的指导下制定并推进实施全面的销售计划、销售政策、销售模式和各项管理制度；<br />
+                4、深入了解本行业，把握最新销售信息，为企业提供业务发展战略依据；<br />
+                5、同行业间建立良好的合作关系，进行客户分析，建立客户关系，挖掘用户需求；<br />
+                6、认真评估、审核营销人业绩；<br />
+                7、销售情况的及时汇总、汇报并提出合理建议；<br />
+                8、及时掌握市场行情，对重大市场变动情况和政策变动情况及时上报总经理；<br />
+                9、制定强有力的客户管理方案，加强客户管理，做好各项存档和保密工作；<br />
+                10、主持公司重大营销合同的谈判与签订工作；<br />
+                11、协助财务部门收款，防止呆帐、坏帐；<br />
+                12、及时反馈客户信息，协助工程技术部经理解决重大工程事故；<br />
+                13、完成公司领导交办的其他工作任务。<br />
+	</p>
+  -->
+    <h3 id="a1">研发中心</h3>
+    <p class="conneir">
+              -------------------------------------------------------------------------------------------------------------------------------<br />
+	    <b>【PHP开发工程师】</b><br />
+            
+           ※ 岗位职责及内容：<br />
+
+                ❶ 基于php高级构架的新项目开发；根据公司产品发展方向，开发新系统；<br />
+                ❷ 负责项目架构设计、模块划分和代码编写；严格按照项目进度要求进行程序开发；<br />
+                ❸ 对所编写的程序进行严格的综合测试，进行软件故障的诊断、定位、分析和调试，以实施产品测试方案；<br />
+                ❹ 保证程序的安全、效率和可扩展性；<br />
+                ❺ 支持公司新项目的后台开发；<br />
+                ❻ 按照要求完成相关开发文档的整理与编写；<br />
+                ❼ 上级领导交办的其他事项。<br />
+
+		※ 任职资格：<br />
+		❶ 计算机相关专业，大学本科以上学历；<br />
+                ❷ 精通PHP、MySQL，Linx；<br />
+                ❸ 熟悉 MySQL 数据库应用开发，了解 MySQL 的数据库配置管理、具有 MySQL 索引优化、查询优化和存储优化经验、PHP 缓存技术、静态化设计方面的经验与技能；<br />
+                ❹ 精通LAMP(Linux+Apache+Mysql+PHP)体系架构,熟悉MVC编程思想和结构，熟悉常用php开发框架；<br />
+                ❺ 掌握软件设计流程和软件工程规范，具备良好而规范的设计和技术文档编写能力，拥有良好的编写代码习惯，逻辑结构清晰，命名规范，代码冗余率低；<br />
+                ❻ 富于团队精神和敬业精神，沟通协调能力好，具有良好的自学能力和独立解决问题的能力；<br />
+                ❼ 可承受一定的工作压力并在指定的时间内完成高质量的程序；<br />
+                ❽ 良好的价值观及道德品质；<br />
+                ❾ 认同公司的文化，愿意与公司共成长。<br />
+
+	</p>
+    <p class="conneir">
+	   	-------------------------------------------------------------------------------------------------------------------------------<br />
+		<b>【IOS开发工程师】</b><br />
+                ※ 岗位职责及内容：<br />
+		❶ 负责公司互联网和智能硬件IOS移动应用的框架设计和APP应用开发；<br />
+                ❷ IOS开发完成客户端界面及应用程序设计、开发、发布；<br />
+                ❸ 负责IOS客户端开发流程的控制及优化，项目进度的管理及把控；<br />
+                ❹ 参与手机APP的SDK技术开发，产品架构设计和方案的制定；<br />
+                ❺ 负责IOS平台框架层面的开发维护以及扩展；<br />
+                ❻ 跟进IOS的新技术发展，编写设计开发及实现文挡，根据产品功能需求设计并完成软件实现。<br />
+
+		※ 任职资格：<br />
+                ❶ 计算机相关专业，专科及以上学历；<br /> 
+                ❷ 1年以上IOS (Objective C)平台开发经验，最好有开发过成熟的产品的经验； <br />
+                ❸ 熟悉iPhone开发工具和相关开发测试工具的使用，有良好的编码习惯； <br />
+                ❹ 精通IOS开发平台、技术框架； <br />
+                ❺ 拥有良好的沟通能力和团队合作意识；<br />
+                ❻ 有互联网公司工作经验优先；<br />
+                ❼ 了解Android、JAVA语言着优先。<br />
+
+	</p>
+	
+	<p class="conneir">
+		-------------------------------------------------------------------------------------------------------------------------------<br />
+		<b>【Android开发工程师】</b><br />
+		※ 岗位职责及内容：<br />
+		❶ 负责移动客户端相关项目的需求分析、详细设计及开发工作；<br />
+                ❷ 独立完成android项目开发；<br />
+                ❸ 进行程序单元、功能的测试，查出软件存在的缺陷并保证其质量；<br />
+                ❹ 负责相关产品的文档撰写，整体调控产品的开发与发布；<br />
+                ❺ 根据需求和测试报告进行代码修改以保证软件质量；<br />
+                ❻ 具有良好的编程习惯,书写易维护,易阅读的代码/注释。<br />
+
+		※ 任职资格：<br />
+                ❶ 计算机、软件工程相关专业专科及以上学历, 一年以上Android平台编程经验；<br />
+                ❷ 熟悉Android平台的GUI、基本组件、Socket/HTTP编程、线程、进程间通信机制等；<br />
+                ❸ 熟悉Android应用开发框架，能独立开发高性能的Android应用；<br />
+                ❹ 熟悉API、SDK等相关技术（分享，支付，地图等）；<br />
+                ❺ 具有良好的编码风格与编码技巧，能够熟练阅读英文文档，擅于学习新的技能；<br />
+                ❻ 具备良好的沟通能力和团队协作能力，能够独立思考，优化产品实现方式和代码结构；<br />
+                ❼ 参与过2个以上完整的移动互联网项目，有成功上线的APP者为佳。<br />
+
+	</p>
+	
+	
+         <h3 id="a2">管理中心</h3>
+        <p class="conneir">
+              -------------------------------------------------------------------------------------------------------------------------------<br />
+	    <b>【人事招聘专员】</b><br />
+		※ 岗位职责及内容：<br />
+		❶ 负责发布职位信息、收集筛选简历、安排面试，录用结果跟进，做好关键岗位的背景调查；建立公司人才储备信息库，以备各岗位应急之需；<br />
+                ❷ 协助制定并实施月度招聘计划，开展招聘工作，确保完成招聘任务，成为一名专业的伯乐，找到激情、活力、认同企业、服务企业的千里马；<br />
+                ❸ 利用各种招聘渠道发布招聘广告，寻求招聘机构，协助招聘渠道开拓及招聘数据分析，提高招聘效率；<br />
+                ❹ 协助绩效工作的开展，根据公司考核制度协助制定各部门考核指标；整理和分析考核信息，反馈各部门考核结果；<br />
+                ❺ 协助薪酬制度的修改与完善，协助解决员工薪资方面的问题；<br />
+                ❻ 人事相关工作，包括员工入离职、员工活动、员工关系等工作的处理；<br />
+                ❼ HR部门经营着公司最重要的资产——人才。我们的工作需要将自己的热情、激情和聪明才智投入到日常每一项最基础的人力资源工作，让每位同事在日思夜享和小宝一起用心思考、持续成长和不断进步，在公司快乐工作、认真生活；我们的使命是帮助每位同事实现梦想；<br />
+
+		※ 任职资格：<br />
+		❶ 大专及以上学历，人力资源或相关专业；<br />
+                ❷ 一年以上相关工作经验，互联网行业招聘经验者优先考虑；<br />
+                ❸ 有人力资源的实务操作经验，熟悉国家相关法律法规；<br />
+                ❹ 工作细致、积极主动、执行力强、沟通协调能力较好；<br />
+                ❺ 熟悉各类办公软件，Word、Excel、PPT等；<br />
+                ❻ 认真、细致、善良、乐于助人，以成就别人为乐；<br />
+                ❼ 愿意从公司最基础的岗位开始做起，愿意接受工作内容的不断变化；<br />
+                ❽ 严格要求自己，立志成为优秀的人。<br />
+
+	</p>
+          <h3 id="a3">智慧招商</h3>
+        <p class="conneir">
+                    -------------------------------------------------------------------------------------------------------------------------------<br />
+                    <b>【商务客服专员】</b><br />
+                    ※ 岗位职责及内容：<br />
+                    ❶ 为客户提供准确完整的信息，接受客户咨询并记录，按照相应流程给客户反馈；<br />
+                    ❷ 记录整理客户需求，提交智慧招商相关人员；<br />
+                    ❸ 负责客户订单的流程管理及跟踪，及时反馈并解决客户的问题；<br />
+                    ❹ 及时处理客户订单及交易流程服务节点，并做好相应的记录；<br />
+                    ❺ 提供售后服务接受客户投诉，并反馈至相关部门。<br />
+                    ※ 任职资格：<br />
+                    ❶ 大专以上学历；<br />
+                    ❷ 嗓音甜美，形象气质佳；<br />
+                    ❸ 能够全面负责商务事宜的统筹管理，具有优秀的综合管理素质、商务洽谈能力与管理能力；<br />
+                    ❹ 沟通能力佳，思维敏捷，处事灵活；<br />
+                    ❺ 责任心强、执行力强、勇于接受挑战，具备较强的抗压能力。<br />
+
+            </p>
+            <p class="conneir">
+                    -------------------------------------------------------------------------------------------------------------------------------<br />
+                    <b>【推广专员】</b><br />
+                    ※ 岗位职责及内容：<br />
+                    ❶ 负责推广和日常运营工作，通过群、微信、微博等线上运营和线下手段进行推广，实现下载量、安装量、活跃度目标；<br />
+                    ❷ 负责宣传推广文案、创意内容及宣传资料文案的撰写，为线上活动、广告传播、线上公关稿件撰写相关文案内容；<br />
+                    ❸ 对移动互联网市场活动、市场竞争与用户有定期分析和评价，有针对性的调整推广策略；<br />
+                    ❹ 积极寻求移动市场推广资源，负责对外与市场资源合作，寻找合作切入点，拓展合作渠道；<br />
+                    ❺ 策划和执行相关推广活动、进行广告推广，合作推广，换量互推，付费推广等跟踪；<br />
+                    ❻ 跟进及维护市场资源合作关系，负责与应用商店、应用市场、专业论坛、移动浏览器、热门应用、版主、设备植入等各类营销合作；<br />
+
+                    ※ 任职资格：<br />
+                    ❶ 1年以上移动互联网、客户端市场推广经验，推广专员等职位工作经验优先；<br />
+                    ❷ 熟悉移动互联网行业，熟悉各种软件商店、论坛、手机厂商或渠道商，有一定的人脉资源；<br />
+                    ❸ 熟悉ios和Android平台及App产品，对App的推广和运营有自己的认识；<br />
+                    ❹ 对互联网事物，网络营销事件高度敏感，熟悉微博营销操作手法与互联网语言；<br />
+                    ❺ 较强的文案策划能力，良好语言及文字表达能力，需要文字功底好，有创意，对热点有嗅觉；<br />
+                    ❻ 工作认真细致，具备高度的责任感，乐于学习新知识，有团队合作精神，能承受大的工作压力。<br />
+
+            </p>
+            <p class="conneir">
+                    -------------------------------------------------------------------------------------------------------------------------------<br />
+                    <b>【大客户经理】</b><br />
+                    ※ 岗位职责及内容：<br />
+                    ❶ 全力完成公司下达的销售指标和重要客户拓展指标，负责制定相关行业的市场开发计划、渠道资源发掘等工作；<br />
+                    ❷ 搜集与开发相关行业重要客户，维护老客户，确保客户在我们的平台获得较好的效果；<br />
+                    ❸ 负责所管理客户的招商、推广指导，熟悉产品知识，保证准确无误向客户传达合作模式、商务条款，为客户出谋划策，与客户共同制定实效的招商方案、招商策略、推广方案，建立公司专业负责的良好形象；<br />
+                    ❹ 与客户建立良好合作关系，维护企业形象，积极配合公司其他部门共同完成好运营工作。<br />
+
+                    ※ 任职资格：<br />
+                    ❶ 大专以上学历，2年以上相关经验；<br />
+                    ❷ 五官端正、口齿清晰、思维敏捷；<br />
+                    ❸ 脚踏实地、乐观进取、吃苦耐劳，有冲劲闯劲，能适应短期出差，有良好的职业素质和团队意识；<br />
+                    ❹ 有良好的沟通技巧，有激情、有梦想，敢于挑战高薪；<br />
+                    ❺ 有电子商务、运营销售经验者优先。<br />
+            </p>
+               <p class="conneir">
+                    -------------------------------------------------------------------------------------------------------------------------------<br />
+                    <b>【UI（用户界面）设计师】</b><br />
+                    ※ 岗位职责及内容：<br />
+                    ❶ 负责便携式终端（包括手机，PND，平板电脑）软件UI设计；<br />
+                    ❷ 编写设计思路和视觉设计规范等文档；<br />
+                    ❸ 负责Web系统及网页的界面设计。<br />
+
+                    ※ 任职资格：<br />
+                    ❶ 本科以上学历，1年以上页面UI设计经验，有终端界面设计经验者优先；<br />
+                    ❷ 具有良好创意构思能力，理解分析能力强，手绘能力良好者优先；<br />
+                    ❸ 精通视觉效果呈现，具备独立的视觉设计和良好的沟通能力；<br />
+                    ❹ 熟练操作各种设计软件，如Photoshop、flash等；<br />
+                    ❺ 熟悉Html、DIV/CSS、Actionscript、Javascript者优先。<br />
+
+            </p>
+               <p class="conneir">
+                    -------------------------------------------------------------------------------------------------------------------------------<br />
+                    <b>【平面设计师】</b><br />
+                    ※ 岗位职责及内容：<br />
+                    ❶ 负责公司的品牌形象设计，活动广告设计等；<br />
+                    ❷ 根据企划方案，独立创意、设计相关宣传资料；<br />
+                    ❸ 负责公司产品项目的设计排版、印前制作。<br />
+
+                    ※ 任职资格：<br />
+                    ❶ 美术、设计相关专业，有平面设计工作经验；<br />
+                    ❷ 精通Photoshop、Ai等图像处理和排版软件；<br />
+                    ❸ 精通Photoshop、Ai等图像处理和排版软件；<br />
+                    ❹ 熟悉创意平面设计流程及印刷工艺；<br />
+                    ❺ 可以先发好的作品到我们邮箱。<br />
+            </p>
+   <p class="conneirb">投递简历：<a href="mailto:chenzy@51lick.com">chenzy#51lick.com</a></p> 
+   <p class="conneirb">联系电话：0571-88195695</p> 
+  </div>
+  <div class="clear"></div>
+  <DIV id=gotopbtn>
+            <A href="javascript:void(0);">回到顶部</A>
+            <SPAN class=hddb></SPAN>
+  </DIV>
+</div>
+<iframe src="Templates/footer.html" height="570px;" width="100%" frameborder="0" scrolling="no"></iframe><!----------------------------改动了height 原来770--------------------------->
+<!----------------------------隐藏咨询浮窗 start--------------------------->
+<div class="app-down-panel" style="display: none;">
+  <ul class="piaotab">
+    <li class="piaotabn1"><a href="#" class="piaotab1"></a><span class="piaotab1-pic1" style="display:none;">
+      <script charset="utf-8" type="text/javascript" src="../wpa.b.qq.com/cgi/wpa.php-key=XzkzODA0NjAxM182MzUyN180MDA2Njg5MDUwXw" ></script>
+      </span></li>
+    <li class="piaotabn2"><a href="#" class="piaotab2"></a><span class="piaotab1-pic" style="display:none;" onclick="show('pop','http://v.ku6vms.com/phpvms/player/html/vid/dS42IJqurdXXmHDh/style/gRiQ5K9giiL4EUzq/')"><a href="javascript:;"></a></span></li>
+  </ul>
+</div>
+<!----------------------------隐藏 咨询浮窗 end--------------------------->
+<!----------------------------隐藏--------------------------->
+<div id="pop" class="pop" style="display:none">
+    <div class="pop_head"> <a href="javascript:void(0);" onclick="hide('pop') ">关闭</a> </div>
+    <div id="spw"></div>
+</div>
+<script src="js/jquery-1.11.2.min.js" type="text/javascript"></script>
+<script src="js/downtime.js-0" type="text/javascript"></script>
+<script type="text/javascript">
+        //回到顶部-->
+            $(document).ready(function () {
+                var backtopEl = $('#gotopbtn');
+                var winEl = $(window);
+                winEl.scroll(function () {
+                    var scrollTop = winEl.scrollTop();
+                    if (scrollTop > 0) {
+                        backtopEl.show();
+                    } else {
+                        backtopEl.hide();
+                    }
+                });
+                backtopEl.click(function () {
+                    $('html,body').animate({scrollTop: '0px'}, 500);
+                });
+                $('.banner-c-min').bind('click', function () {
+                    slideLarge();
+                });
+                var slideSmall = function () {
+                    $('.banner-c').animate({
+                        height: 100
+                    }, {
+                        easing: 'easeInQuad',
+                        duration: 1000,
+                        step: function () {
+                            var pos = $('.enter-demo-link').offset();
+                            $('.mnty').parent().css('top', pos.top + 58 - 224);
+                        },
+                        complete: function () {
+                            $('.banner-c').hide();
+                            $('.banner-c-min').show();
+                        }
+                    });
+                };
+                var slideLarge = function () {
+                    $('.banner-c-min').hide();
+                    $('.banner-c').css('height', 100).show();
+                    $('.banner-c').animate({
+                        height: 700
+                    }, {
+                        easing: 'easeInQuad',
+                        duration: 1000,
+                        step: function () {
+                            var pos = $('.enter-demo-link').offset();
+                            $('.mnty').parent().css('top', pos.top + 58 - 224);
+                        },
+                        complete: function () {
+                            $('.banner-c').show();
+                            $('.banner-c-min').hide();
+                            setTimeout(function () {
+                                slideSmall();
+                            }, 10000);
+                        }
+                    });
+                };
+            });
+        //回到顶部结束
+    $(function(){
+	var listWrap=$('.vediomainsp').find('p');
+	listWrap.mouseenter(function(){
+		var meEl=$(this);
+		meEl.find('.vediomainsptitle').hide();
+		meEl.find('.vediomainspnr').show(); 
+	});
+	listWrap.mouseleave(function(){
+		var meEl=$(this);
+		meEl.find('.vediomainsptitle').show();
+		meEl.find('.vediomainspnr').hide(); 
+	});
+	 
+});
+ 
+function show(o,url){
+ var o = document.getElementById(o);
+ var spw=document.getElementById("spw");
+ 
+ spw.innerHTML='<EMBED id="sp" name="fsVideo" width="700"'+
+'height="525" align="middle" src="'+url+'" '+
+'type="application/x-shockwave-flash" flashvars="auto=1" allowfullscreen="true" '+
+'allowscriptaccess="always" quality="high">'+
+'</EMBED>';
+ o.style.display = "";
+}
+function hide(o){
+ var o = document.getElementById(o);
+ o.style.display = "none";
+ //window.location.reload();
+ var spw=document.getElementById("spw"),
+     sp=document.getElementById("sp");
+     spw.removeChild(sp);
+}
+
+</script>
+<script type="text/javascript">
+
+	//右侧咨询窗 浮层 效果
+	var piaoTabEl=$('.piaotab');
+	piaoTabEl.find('.piaotabn2').mouseenter(function(){
+		$(this).find('.piaotab1-pic').show();
+	}).mouseleave(function(){
+		$(this).find('.piaotab1-pic').hide();
+	});
+	piaoTabEl.find('.piaotabn1').mouseenter(function(){
+		$(this).find('.piaotab1-pic1').show();
+	}).mouseleave(function(){
+		$(this).find('.piaotab1-pic1').hide();
+	});
+	 
+</script>
+<script type="text/javascript">
+$(function(){
+   var topNavWrap=$('.xiaobaotitle'),
+	   xiaobaoAtplEl=topNavWrap.find('a').filter('.xiaobao-atpl');
+	var topNavWrap=$('.xiaobaotitle');
+	xiaobaoAtplEl.click(function(){
+		xiaobaoAtplEl.removeClass('ton');
+		$(this).addClass('ton');
+	});
+	var xuanxiangkatit=$('.xuanxiangkatit');
+	xuanxiangkatit.find('a').click(function(evt){
+		if($('html,body').scrollTop() < 550){
+			$('html,body').animate({ scrollTop: '550px' },500);
+			xiaobaoAtplEl.removeClass('ton');
+			xiaobaoAtplEl.eq(1).addClass('ton');
+			evt.preventDefault();
+		}
+	});
+
+	var botMobDown=$('#bot-mob-down'),
+		tanchuk=$('#tanchuk');
+	botMobDown.click(function(evt){
+		tanchuk.show();
+		evt.stopPropagation();
+	});
+
+//	$(window).scroll(function(){
+//		var winScrollHeight=$(window).scrollTop(),
+//			botMobDownOffsetHeight=botMobDown.offset().top,
+//			botMobDownTop=botMobDownOffsetHeight - winScrollHeight;
+//		//console.info(tanchukTop);
+//		if(botMobDownTop < 160){
+//			tanchuk.css('top','3360px')
+//		}else{
+//			tanchuk.css('top','3220px')
+//		}
+//	});
+
+	var mntyEl=$('.mnty'),
+      mntyMask=$('.mnty-mask'),
+      imgErr = $('.imgcode-err', mntyEl),//图形验证码失效
+      step1El = $('.mnty-step-1',mntyEl),//页面1
+      step2El = $('.mnty-step-2',mntyEl),//页面2
+	  mntyHeadClose=$('.mnty_head_close',mntyEl),
+	  btnReget = $('.code-reget', mntyEl),//重新获取验证码
+	  btnGetCode = $('.f-getcode', mntyEl),//获取验证短信
+      captchaValEl=$('.captcha-val',mntyEl), //验证码输入框
+      mobileEl = $('.mobile-val',mntyEl), //手机号
+      codeEl = $('.code-val',mntyEl), //手机验证码
+      captchaImgEl=$('.captcha-img',mntyEl), //验证码图
+      seconds = 60,//60秒内不能重新获取
+      timer = null;
+  var captchaKey=0;
+  var updateCaptchaKey=function(){
+        var now=new Date();
+        captchaKey=Math.ceil(now.getTime()/1000);
+        captchaImgEl.attr('src','/DemoAccount/GetCodeImg?key='+captchaKey);
+    };
+	topNavWrap.find('.experience-btn').click(function(evt){
+		updateCaptchaKey();
+		mntyEl.show();
+		evt.preventDefault();
+		evt.stopPropagation();
+	});
+	//点击图片更换地址
+	mntyEl.on('click','.change-captcha-l,.captcha-img',function(evt){
+	    updateCaptchaKey();
+	    evt.preventDefault();
+	});
+	//点击按钮进入体验
+  mntyEl.on('keydown','.captcha-val',function(eve){
+    if(eve.keyCode == 13){
+      mntyEl.find('.f-sub').trigger('click');
+    }
+  });
+  var getCode = function(){
+	  var captchaVal=$.trim(captchaValEl.val());
+      var mobileVal=$.trim(mobileEl.val());
+	  $.ajax({
+          "type":"post",
+          "dataType":"json",
+          "url":"DemoAccount/BuildValidateCode",
+            "data":{
+                "key":captchaKey,
+                "imgcode":captchaVal,
+                "mobile":mobileVal
+            },
+            "success":function(responseData){
+                if(responseData.success) {
+                	step1El.hide();
+                	$('.mnty-mobile', step2El).html(mobileVal);
+                	imgErr.hide();
+                	btnReget.addClass('grey');
+                	btnGetCode.addClass('grey');
+                	timer = setInterval(function(){
+                		seconds--;
+	                	if(seconds>0) {
+	                		btnReget.html('重新发送(' + seconds +')');
+	                		btnGetCode.val('获取验证短信(' + seconds + ')');
+		                } else {
+		                	seconds = 60;
+		                	btnReget.html('重新发送').removeClass('grey');
+		                	btnGetCode.val('获取验证短信').removeClass('grey');
+		                	clearInterval(timer);
+		                	timer = null;
+			            }
+	                }, 1000);
+                	step2El.show();
+		        } else {
+					switch($.trim(responseData.error)) {
+					case '001':
+						alert('手机格式不正确');
+						break;
+					case '004':
+						alert('两次获取验证码的间隔不能少于1分钟');
+						break;
+					case '005':
+						if(step1El.css('display')!='none') {
+							alert('图形验证码不正确');
+						} else {
+							step1El.show();
+							step2El.hide();
+							updateCaptchaKey();
+							imgErr.show();
+							captchaValEl.val('').get(0).focus();
+						}
+						break;
+					}
+			    }
+            },
+            "error":function(){
+                alert('网络繁忙，请重试。');
+            }
+      });
+  };
+	mntyEl.on('click','.f-sub',function(evt){
+      var codeVal=$.trim(codeEl.val());
+      var mobileVal=$.trim(mobileEl.val());
+      if(codeVal.length>0&&codeVal!="请输入验证码"){
+          $.ajax({
+              "type":"post",
+              "dataType":"json",
+              "url":"/DemoAccount/LoginEx",
+                "data":{
+                    "key":captchaKey,
+                    "validateCode":codeVal,
+                    "mobile":mobileVal,
+                    "source":3
+                },
+                "success":function(responseData){
+                    var gotoUrl;
+                    if(responseData.success){
+                        gotoUrl=responseData.data;
+                        location.href="index.htm"/*tpa=http://www.fxiaoke.com/*/+gotoUrl;
+                    }else{
+                        alert('登录失败，'+responseData.error);
+                    }
+                },
+                "error":function(){
+                    alert('网络繁忙，请重试。');
+                }
+          });
+      }
+      evt.preventDefault();
+  }).on('click', '.f-getcode', function(){
+	  if(!btnGetCode.hasClass('grey')) {
+		  var captchaVal=$.trim(captchaValEl.val());
+	      var mobileVal=$.trim(mobileEl.val());
+	      if(mobileVal.length>0&&mobileVal!='请输入手机号码'&&captchaVal.length>0&&captchaVal!="请输入右侧字符"){
+	    	  getCode();
+	      }
+      }
+	}).on('click', '.code-reget', function(){
+		if(!btnReget.hasClass('grey')) {
+			getCode();
+		}
+	}).on('blur','.captcha-val',function(){
+	         var captchaVal=$.trim(captchaValEl.val());
+	         if(captchaVal.length==0){
+	         	captchaValEl.val('请输入右侧字符');
+			     captchaValEl.css('color','#C8C8C8');
+	         }
+	}).on('click','.captcha-val',function(){
+	         var captchaVal=$.trim(captchaValEl.val());
+	         if(captchaVal=='请输入右侧字符'){
+	           captchaValEl.val('');
+			       captchaValEl.css('color','#000000');
+	           }
+	}).on('blur','.mobile-val',function(){
+        var mobileVal=$.trim(mobileEl.val());
+        if(mobileVal.length==0){
+        	mobileEl.val('请输入手机号码');
+        	mobileEl.css('color','#C8C8C8');
+        }
+	}).on('click','.mobile-val',function(){
+	        var mobileVal=$.trim(mobileEl.val());
+	        if(mobileVal=='请输入手机号码'){
+	        	mobileEl.val('');
+			    mobileEl.css('color','#000000');
+	        }
+	}).on('blur','.code-val',function(){
+        var codeVal=$.trim(codeEl.val());
+        if(codeVal.length==0){
+        	codeEl.val('请输入验证码');
+        	codeEl.css('color','#C8C8C8');
+        }
+	}).on('click','.code-val',function(){
+	        var codeVal=$.trim(codeEl.val());
+	        if(codeVal=='请输入验证码'){
+	        	codeEl.val('');
+			    codeEl.css('color','#000000');
+	        }
+	}).on('click', '.code-change', function(){
+		step1El.show();
+		step2El.hide();
+		updateCaptchaKey();
+		mobileEl.val('').get(0).focus();
+		captchaValEl.val('请输入右侧字符');
+	});
+	mntyHeadClose.click(function(evt){
+		mntyEl.hide();
+		evt.preventDefault();
+	});
+	$(document).click(function(){
+		mntyEl.hide();
+		tanchuk.hide();
+	});
+	mntyEl.click(function(evt){
+		evt.stopPropagation();
+	});
+});
+</script> 
+<script type="text/javascript">
+
+	//右侧咨询窗 浮层 效果
+	var piaoTabEl=$('.piaotab');
+	piaoTabEl.find('.piaotabn2').mouseenter(function(){
+		$(this).find('.piaotab1-pic').show();
+	}).mouseleave(function(){
+		$(this).find('.piaotab1-pic').hide();
+	});
+	piaoTabEl.find('.piaotabn1').mouseenter(function(){
+		$(this).find('.piaotab1-pic1').show();
+	}).mouseleave(function(){
+		$(this).find('.piaotab1-pic1').hide();
+	});
+	 
+</script>
+<script type="text/javascript">
+function alignHeight(eleA,eleB){
+  if(!document.getElementById(eleA)){return false;}
+  if(!document.getElementById(eleB)){return false;}
+  var heightA = document.getElementById(eleA).clientHeight;
+  var heightB = document.getElementById(eleB).clientHeight;
+  if(heightA > heightB){
+    document.getElementById(eleB).style.height = heightA + "px";
+    document.getElementById(eleA).style.height = heightA + "px";
+  }else{
+    document.getElementById(eleA).style.height = heightB + "px";
+    document.getElementById(eleB).style.height = heightB + "px";
+  }
+}
+window.onload =
+function z_align(){
+  alignHeight("conl","conr"); //只需将需要对齐的两个模块的id写在此处即可。
+//alignHeight("AAA","BBB") 可依此连续多组。
+}
+</script>
+<!--<script type="text/javascript">
+    var randomNum=new Date()/1;
+    document.write(unescape("%3Cscript src='./statistics/common.js?v="+randomNum+"' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff57c6a7902fa9e2e25e18c371c811745' type='text/javascript'%3E%3C/script%3E"));
+</script>
+脉可寻公司 测试广告平台
+<script type="text/javascript" src="../a.ad7.com/js/i.js-uid=huy"  id="_mutmzc"></script> -->
+</body>
+</html>

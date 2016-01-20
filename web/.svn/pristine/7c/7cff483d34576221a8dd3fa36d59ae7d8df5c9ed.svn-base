@@ -1,0 +1,182 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>                                                       
+     
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>小宝招商 全国第一招商众包网络平台 利伊享 日思夜享数据科技有限公司  </title>
+<meta name="author" content="杭州利伊享数据科技有限公司" />
+<meta name="keywords" content="招商,推广,营销，业务员, 客户,智慧,销售,加盟,成果买单,兼职, OTO" />
+<meta name="description" content="小宝，全国最大的移动互联网营销平台，汇聚天下百万业务员，包括小宝智慧招商、智慧运营、智慧推广三大平台，兼职众包，精准招商，成果买单，担保交易，免费宣传，企业凭效果付费。" />
+<link href="../css/home.css"  rel="stylesheet" type="text/css" />
+</head>
+
+<!--<div class="tanchuk" id="tanchuk" style="display:none; position:absolute;  left:51%; margin-left:-499px; top:90px;" >
+  <p class="tanchuk1"> 苹果/安卓手机编辑短信内容“<span class="tanchuk1s">纷享销客</span>”发送至“<span class="tanchuk1s">12114</span>”</p>
+  <p class="tanchuk2">立即获取客户端下载链接，轻松又便捷</p>
+  <p class="tanchuk3"><a href="../downloadsection.html"  target="_blank">查看其它下载方式</a></p>
+</div>-->
+
+<div class="bttj" style="DISPLAY: none">
+<!--  <div class="bttjreg"> 
+      <a href="javascript:void(0);" id="bot-mob-down"  class="bttjanbt" style=" margin:auto;"> 安卓、苹果手机客户端下载</a> 
+      <a href="http://www.fxiaoke.com/StaticFiles/GetPCEntNewVersion" class="bttjanbt  bttjanbt1">Windows版电脑客户端下载 </a>
+       <a href="http://go.microsoft.com/fwlink/?LinkID=149156&v=5.1.10411.0" class="bttjanbt  bttjanbt1">微软Silverlight插件下载</a>  
+  </div>-->
+</div>
+<div class="footer">
+  <div class="bottom">
+    <ul class="bottomnav">
+      <li>
+        <dl class="bottomtitle">
+          <dt><a href="../about.html"  target="_blank">关于我们</a></dt>
+          <dd><a href="../about.html" target="_blank">公司简介</a></dd>
+          <dd><a href="../aboutone.html"  target="_blank">品牌文化</a></dd>
+          <dd><a href="../abouttwo.html"  target="_blank">经营理念</a></dd>
+          <DD><A href="../aboutthree.html" target="_blank">重大事件</A> </DD>
+
+<!--          <dd><a href="../#" target="_blank">核心团队</a></dd>
+          <dd><a href="../#" target="_blank">顾问团队</a></dd>-->
+        </dl>
+      </li>
+      <li>
+        <dl class="bottomtitle">
+            
+            <!--<dt><a href="../#"  target="_blank">产品&服务</a></dt>-->
+          <dt><a href="../productone.html"  target="_blank">产品&服务</a></dt>
+          <dd><a href="../productone.html"  target="_blank">产品介绍</a></dd>
+          <dd><a href="../shoujiapp.html"  target="_blank">下载专区</a></dd>
+          
+          
+        </dl>
+      </li>
+      <li>
+        <dl class="bottomtitle">
+          <dt><a href="../partner.html" target="_blank">合伙人体系</a></dt>
+          <dd><a href="../partnerone.html"  target="_blank">创业与合作</a></dd>
+        </dl>
+      </li>
+      <li>
+        <dl class="bottomtitle">
+          <dt><a href="../tiandihui.html"  target="_blank">天地汇</a></dt>
+          <dd><a href="../tiandihui.html"  target="_blank">天地汇介绍</a></dd>
+          <dd><a href="../tiandihuihd.html"  target="_blank">如何参加</a></dd>
+<!--          <dd><a href="../#"  target="_blank">最新活动</a></dd>-->
+        </dl>
+      </li>
+      <li style=" border-right:none;">
+        <dl class="bottomtitle">
+          <dt><a href="../jobus.html"  target="_blank">加入我们</a></dt>
+         <dd><a href="../contact.html"  target="_blank">联系我们</a></dd>
+<!--          <dd><a href="../joinus.html"  target="_blank">团队文化</a></dd>-->
+          <dd><a href="../jobus.html" target="_blank">招聘职位</a></dd>
+        </dl>
+      </li>
+    </ul>
+ <!------------------------------微博、微信------------------------------->
+    <P class=bottomgz>
+        <IMG style="MARGIN-RIGHT: 10px" src="../img/xiaobaoweixin1.jpg"> 
+        <SPAN>+关注微信服务号</SPAN> 
+          <IMG style="MARGIN-RIGHT: 10px; margin-left: 40px;" src="../img/xiaobaoweixin2.jpg"> 
+        <SPAN>+关注微信订阅号</SPAN> 
+        <A href="http://weibo.com/u/5625398329?topnav=1&wvr=6&topsug=1" target="_blank">
+            <IMG style="MARGIN: 0px 20px 0px 40px" src="../img/xiaobao_wb.png">+关注微博
+        </A>
+    </P>
+<p class="bottomxx">杭州利伊享数据科技有限公司<br />杭州日思夜享数据科技有限公司<BR>
+      公司地址：杭州拱墅区祥园路88号中国（杭州）智慧信息产业园三号楼六楼 &nbsp;&nbsp;&nbsp;热线电话：+86 0571 88195693<br />
+      Copyright © 2015.All rights reserved.&nbsp;&nbsp;&nbsp;浙ICP备15010709号</p>
+  </div>
+</div>
+<script src="../js/jquery-1.11.2.min.js"  type="text/javascript"></script>
+<script type="text/javascript">
+$(function(){
+   var topNavWrap=$('.xiaobaotitle'),
+	   xiaobaoAtplEl=topNavWrap.find('a').filter('.xiaobao-atpl');
+	var topNavWrap=$('.xiaobaotitle');
+	topNavWrap.find('a').eq(0).click(function(){
+		$('html,body').animate({ scrollTop: '0px' },500);
+	});
+	topNavWrap.find('a').eq(1).click(function(){
+		$('html,body').animate({ scrollTop: '550px' },500);
+	});
+	topNavWrap.find('a').eq(2).click(function(){
+		$('html,body').animate({ scrollTop: '1230px' },500);
+	});
+	topNavWrap.find('a').eq(3).click(function(){
+		$('html,body').animate({ scrollTop: '2120px' },500);
+	});
+	topNavWrap.find('a').eq(5).click(function(){
+		$('html,body').animate({ scrollTop: '3200px' },500);
+	});
+	xiaobaoAtplEl.click(function(){
+		xiaobaoAtplEl.removeClass('ton');
+		$(this).addClass('ton');
+	});
+	
+	var xuanxiangkatit=$('.xuanxiangkatit');
+	xuanxiangkatit.find('a').click(function(evt){
+		if($('html,body').scrollTop() < 550){
+			$('html,body').animate({ scrollTop: '550px' },500);
+			xiaobaoAtplEl.removeClass('ton');
+			xiaobaoAtplEl.eq(1).addClass('ton');
+			evt.preventDefault();
+		}
+	});
+	
+//	var botMobDown=$('#bot-mob-down'),
+//		tanchuk=$('#tanchuk');
+//	botMobDown.click(function(evt){
+//		tanchuk.show();
+//		evt.stopPropagation();
+//	});
+//	
+//	$(window).scroll(function(){
+//		var winScrollHeight=$(window).scrollTop(),
+//			botMobDownOffsetHeight=botMobDown.offset().top,
+//			botMobDownTop=botMobDownOffsetHeight - winScrollHeight;
+//		//console.info(tanchukTop);
+//		if(botMobDownTop < 160){
+//			tanchuk.css('top','90px')
+//		}else{
+//			tanchuk.css('top','20px')
+//		}
+//	});
+	
+	var mntyEl=$('.mnty'),
+		mntyHeadClose=$('.mnty_head_close',mntyEl);
+	topNavWrap.find('.titlereg').click(function(evt){
+		mntyEl.show();
+		evt.preventDefault();
+		evt.stopPropagation();
+	});
+	
+	mntyHeadClose.click(function(evt){
+		mntyEl.hide();
+		evt.preventDefault();
+	});
+//	$(document).click(function(){
+//		mntyEl.hide();
+//		tanchuk.hide();
+//	});
+	mntyEl.click(function(evt){
+		evt.stopPropagation();
+	});
+});
+</script>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?24bdaf8ed0502b9290e557294dff8bf8";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+<div style="display: none"><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1256709519'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/z_stat.php%3Fid%3D1256709519' type='text/javascript'%3E%3C/script%3E"));</script></div>
+
+
+</body>
+</html>

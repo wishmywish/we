@@ -1,0 +1,90 @@
+/**
+ * 产品价格计算器
+ */
+
+$(function() {
+
+	var clickMeEl = $('#clickMe'); //确定按钮el
+
+	//给input绑定焦点事件
+	$('body').on('focusin', '[data-empty]', function() {
+		var fieldEl = $(this);
+		var val = $.trim(fieldEl.val());
+		var emptyTip = fieldEl.data('empty');
+		if (val == emptyTip) {
+			fieldEl.val('');
+		}
+	}).on('focusout', '[data-empty]', function() {
+		var fieldEl = $(this);
+		var val = $.trim(fieldEl.val());
+		var emptyTip = fieldEl.data('empty');
+		if (val.length == 0) {
+			fieldEl.val(emptyTip);
+		}
+	});
+	//确定按钮事件
+	var finalStr = '';
+	var totalNum;
+	var unitNum;
+	var channelTipInfo = $('.channel-tip-info'); //提示框-计算
+	var warnboxEl = $('.warnbox'); //提示框警告
+	var psEl = $('.channel-tip-info-ps'); //提示框警告
+	var noNumStr = '亲，请填写阿拉伯数字。';
+	var oneStr = '亲，付费版30用户起购哦，请填写30及以上数字。';
+	var twoStr = '亲，建议您直接购买101用户，仅需36360，更便宜哦！';
+	var threeStr = '亲，建议您直接购买201用户，仅需60300，更便宜哦！';
+	var regExp = /^[0-9]*[1-9][0-9]*$/;　　 //正整数正则
+
+	$('body').on('click', '#clickMe', function() {
+		var managerMobileEl = $('#ManagerMobile'); //输入框el
+		var managerMobileVal = managerMobileEl.val(); //输入框el的值
+		var isNum = regExp.test(managerMobileVal); //是不是正整数
+		warnboxEl.hide();
+		
+		if (!isNum) { //不是数字
+			psEl.html(noNumStr);
+			warnboxEl.show();
+		}
+		//提示信息
+		//if (managerMobileVal < 30) {
+			//psEl.html(oneStr);
+			//warnboxEl.show();
+		//}
+		//if ((managerMobileVal >= 87) && (managerMobileVal <= 100)) {
+			//psEl.html(twoStr);
+			//warnboxEl.show();
+		//}
+		//if ((managerMobileVal >= 168) && (managerMobileVal <= 200)) {
+			//psEl.html(threeStr);
+			//warnboxEl.show();
+		//}
+		if (managerMobileVal > 200) {
+			warnboxEl.hide();
+		}
+
+		//算价格
+		if (managerMobileVal < 0) {
+			finalStr = '';
+		}
+		if(managerMobileVal < 10) {
+			finalStr = '购买用户数不能低于10，请重新输入';
+		}
+		if ((managerMobileVal >= 10) && (managerMobileVal <= 100)) {
+			totalNum = managerMobileVal * 40 * 12;
+			unitNum = 35 / 30;
+			finalStr = '您需支付<b style="color:#fa9200;">  ' + totalNum + '  </b>元(12个月服务期)，约合每用户每天 <b style="color:#fa9200;"> ' + unitNum.toFixed(1) + '  </b>元。';
+		}
+		if ((managerMobileVal > 100) && (managerMobileVal <= 200)) {
+			totalNum = managerMobileVal * 35 * 12;
+			unitNum = 30 / 30;
+			finalStr = '您需支付<b style="color:#fa9200;">  ' + totalNum + '  </b>元(12个月服务期)，约合每用户每天 <b style="color:#fa9200;"> ' + unitNum.toFixed(1) + '  </b>元。';
+		}
+		if (managerMobileVal > 200) {
+			totalNum = managerMobileVal * 30 * 12;
+			unitNum = 25 / 30;
+			finalStr = '您需支付<b style="color:#fa9200;">  ' + totalNum + '  </b>元(12个月服务期)，约合每用户每天 <b style="color:#fa9200;"> ' + unitNum.toFixed(1) + '  </b>元。';
+		}
+		channelTipInfo.html(finalStr);
+	});
+
+});

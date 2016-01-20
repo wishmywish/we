@@ -1,0 +1,562 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>                                                        
+<!--<script id="allmobilize" charset="utf-8" src="../a.yunshipei.com/aa1ade851fb06f625df7b62a7df29203/allmobilize.min.js"></script>-->
+<meta http-equiv="Cache-Control" content="no-transform" />
+<link rel="alternate" media="handheld" href="#" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>小宝招商 全国第一招商众包网络平台 利伊享 日思夜享数据科技有限公司  </title>
+ <META name=author content="日思夜享 小宝招商,杭州利伊享数据科技有限公司"/>
+<meta name="keywords" content="招商外包,招商服务,低成本招商,网络招商,营销人,兼职,众包招商,第一招商 " />
+<meta name="description" content="小宝招商，全国最大的移动互联网招商外包平台，汇聚天下百万营销人员，快准低成本帮助企业招到全国客户，先期低成本，精准招商，按成果付费，担保交易，免费宣传" />
+<link href="css/home.css-3.css"  rel="stylesheet" type="text/css" />
+<link href="css/about.css"  rel="stylesheet" type="text/css" />
+<link href="css/bootstrap.css"  rel="stylesheet" type="text/css" />
+<link href="css/page.css"  rel="stylesheet" type="text/css" />
+<link href="css/common.css"  rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="header" id="ftop">
+  <!--模拟体验-->
+<!--<div class="mnty mnty-index mnty1" style="display:none;">
+<div class="mnty_head">模拟体验帐号<a class="mnty_head_close" href="javascript:void(0);"></a></div>
+<table cellspacing="0" class="monitiyan mnty-step-1">
+    <tr class="monitiyani"><td colspan="2" style="width:208px;"><input value="请输入手机号码" class="tjtyip mobile-val" /></td></tr>
+    <tr class="monitiyani"><td colspan="2" style="width:111px;">
+    <input value="请输入右侧字符" class="tjtyip captcha-val" /><img class="monitiyaniimc captcha-img" src="img/clear.gif"  /></td>
+    </tr>
+   <tr class="monitiyann" style="*position:relative;*top:-10px;"><td colspan="2"><a class="change-captcha-l" href="#" onclick="return false;">换一张</a></td></tr>
+   <tr class="monitiyani" style="*position:relative;*top:-15px;"><td colspan="2" style="width:208px;"><div style="position: relative;"><input type="button" value="获取验证短信" class="tjtybt f-getcode" /></div></td>
+  </tr>
+</table>
+<div class="mnty-step-2">
+   <div class="code-info">验证短信已发送至<span class="mnty-mobile"></span></div>
+   <div class="code-ctner"><input value="请输入验证码" class="tjtyip code-val" /></div>
+   <div class="code-submit"><input type="button" value="立即体验" class="tjtybt f-sub" /></div>
+   <div class="code-btns"><a href="#" onclick="return false;" hidefocus="" class="code-reget">重新发送(60)</a><a href="#" onclick="return false;" hidefocus="" class="code-change">换个号码</a></div>
+</div>
+<div class="imgcode-err">验证码已过期，请重新输入</div>
+</div>-->
+  <div class="header1">
+      <a href="index.html" >
+          <img src="img/xiaobao_logo.png"  alt="" class="xiaobaologo" style="padding-left:0px;" />
+      </a>
+<h3 class="xiaobaotitle" style=" padding-right:0px;">
+    <a href="index.html">返回首页</a> 
+<!--    <a class="titlefree experience-btn" style="background-color:#FFA000; margin-left:0px;" href="#" onclick="return false;">模拟体验</a> 
+    <a class="titlefree titlelogin" href="xiaoke/pc/reg.html">快速注册</a> -->
+</h3>
+  </div>
+  <div class="clear"></div>
+</div>
+<div style=" height:70px;"></div>
+<div class="videoimg1"> </div>
+<!--main start-->
+<div class="com-mainbg">
+	<div class="container">
+<!--    <h2 class="down-tit">我们能做什么</h2>-->
+      <div class="al-main">
+          <div class="row text-center down-pageli ">
+              <div class="col-md-4 bor-r"><a href="productone.html">智慧招商</a></div>
+              <div class="col-md-4 bor-r active"><a href="producttwo.html">智慧运营</a></div>
+              <!--              <div class="col-md-3 bor-r"><a href="#">智慧推广</a></div>-->
+              <div class="col-md-4"><a href="productthree.html">智慧推广</a></div>
+          </div>
+          <div class="clearfix"></div>
+          <div class="work-box">
+              <div class="row">
+              	  <div class="col-md-2 sidebox">
+                  	  <div class="work-sidebar pinned"  role="complementary">
+                      	  <ul class="nav bs-sidenav">
+                            <li><a href="producttwo.html">小宝运营，五大特点</a></li>
+                            <li><a href="prodtwo1.html">智慧分销，财源广进</a></li>
+                            <li class="active"><a href="prodtwo2.html">社交办公，高效协同</a>
+                                <ul  style="margin-left:90px;" id="zhfx">
+                                      <li><a href="prodtwo2.html">工作日志</a></li>
+                                     <li><a href="prodtwo2_1.html">手机签到</a></li>
+                                      <li class="active"><a href="prodtwo2_2.html">高效协同</a></li>
+                                      <li><a href="prodtwo2_3.html">资源支持</a></li>
+                                </ul>
+                            </li>
+                          </ul>
+                      </div>   
+                  </div>
+                  
+                    <div class="col-md-10 work-main" role="main">
+                    <h3>高效协同：大家一起干，帮助看的见！</h3>
+                                  <p class="para">公司领导每天最想知道的是什么？工作配合是否到位？下达的任务是否执行？工作沟通是否通畅？高效协同告诉您。</p>
+                          <div class="work-libox">
+                              <div class="row">
+
+                                  <div class="prod2">
+                                      <h4>工作协同，并肩战斗</h4>
+                                      <p class="para">
+                                          员工制定日、周工作计划，安排工作任务，<br />
+                                          工作任务自动提醒，任务完成自动反馈，<br />
+                                          工作任务进程查询一目了然。
+                                      </p>
+                                  </div>
+                                  <div class="col-md-12 work-textli">
+                                      <div class="row work-pad">
+                                          <div class="col-md-4"><img src="img/prodtwo2_17.png" /></div>
+                                          <div class="col-md-5"><img src="img/prodtwo2_18.png" /> </div> 
+                                          <div class="col-md-3"><img src="img/prodtwo2_19.png" /></div>
+<!--                                          <div class="col-md-2"></div>-->
+                                      </div>
+                                  </div>
+                                 
+                              </div> 
+                          </div>
+                                  
+                         <div class="work-libox">
+                              <div class="row">
+                                  
+                                   <div class="prod2">
+                                      <h4>随时随地，移动审批</h4>
+                                      <p class="para">
+                                         各种需要审批的流程可以直接推送到审批人手机，<br />
+                                          审批通过，员工立即收到短信提示，<br />
+                                          审批流程清晰透明，追述性强。
+                                      </p>
+                                  </div>
+                                    <div class="col-md-12 work-textli">
+                                       <div class="row work-pad">
+                                      <div class="col-md-4"><img src="img/prodtwo2_20.png" /></div>
+                                      <div class="col-md-3"><img src="img/prodtwo2_21.png" /> </div> 
+                                      <div class="col-md-4"><img src="img/prodtwo2_22.png" /></div>
+                                      <div class="col-md-1"></div>
+                                  </div>
+
+                                  </div>
+                              </div> 
+                          </div> 
+                   
+
+                          <div class="work-libox">
+                              <div class="row">
+                                 <div class="prod2">
+                                      <h4>互动日程，及时提醒</h4>
+                                      <p class="para">
+                                       员工可随时制定日程计划，<br />
+                                     可随时查询日程安排或系统到点自动短信提醒，<br />
+                                      确保计划安排不忘记、不遗漏。
+                                      </p>
+                                  </div>
+                                  <div class="col-md-12 work-textli">
+                                       <div class="row work-pad">
+                                      <div class="col-md-4"><img src="img/prodtwo2_23.png" /></div>
+                                      <div class="col-md-4"><img src="img/prodtwo2_24.png" /> </div> 
+                                      <div class="col-md-4"><img src="img/prodtwo2_25.png" /></div>
+<!--                                      <div class="col-md-1"></div>-->
+                                  </div>
+
+                                  </div>
+                              </div> 
+                          </div>
+                        <div class="work-libox">
+                              <div class="row">
+                                  <div class="prod2">
+                                      <h4>网盘文档，移动存储</h4>
+                                      <p class="para">
+                                          各种文档数据可以随时存在网盘（大容量），<br />
+                                          可以随时高速下载调用、直接预览，<br />
+                                          是销售人员的移动数据库。
+
+                                      </p>
+                                  </div>
+                                   <div class="col-md-12 work-textli">
+                                       <div class="row work-pad">
+                                      <div class="col-md-5"><img src="img/prodtwo2_26.png" /></div>
+<!--                                      <div class="col-md-4"><img src="img/prodtwo2_27.png" /> </div> -->
+                                      <div class="col-md-7"><img src="img/prodtwo2_28.png" /></div>
+<!--                                      <div class="col-md-1"></div>-->
+                                  </div>
+
+                                  </div>
+                              </div> 
+                          </div>
+                                   <div class="work-libox"  style="border-bottom: medium none;">
+                              <div class="row">
+                                  <div class="prod2">
+                                      <h4>沟通工具，全面覆盖</h4>
+                                      <p class="para">
+                                          员工可在手机端发起电话会议，实现多人通话，<br />
+                                          利用视频会议实现视频培训和交流，<br />
+                                          现代化沟通工具，实现员工全方位的立体沟通。
+
+                                      </p>
+                                  </div>
+                                   <div class="col-md-12 work-textli">
+                                       <div class="row work-pad">
+                                      <div class="col-md-4"><img src="img/prodtwo2_29.png" /></div>
+                                      <div class="col-md-4"><img src="img/prodtwo2_30.png" /> </div> 
+                                      <div class="col-md-4"><img src="img/prodtwo2_31.png" /></div>
+<!--                                      <div class="col-md-1"></div>-->
+                                  </div>
+
+                                  </div>
+                              </div> 
+                          </div>
+                                  
+                  </div>
+              </div>
+          </div>
+       <div class="clearfix"></div>
+      </div> 
+    </div>
+</div>
+<!--main end-->
+
+<iframe src="Templates/footer.html"  height="570px;" width="100%" frameborder="0" scrolling="no"></iframe><!--修改height 为570 原770  少了下载模块-->
+<div class="app-down-panel" style="display: none;">
+  <ul class="piaotab">
+    <li class="piaotabn1"><a href="#" class="piaotab1"></a><span class="piaotab1-pic1" style="display:none;">
+      <script charset="utf-8" type="text/javascript" src="../wpa.b.qq.com/cgi/wpa.php-key=XzkzODA0NjAxM182MzUyN180MDA2Njg5MDUwXw" ></script>
+      </span></li>
+    <li class="piaotabn2"><a href="#" class="piaotab2"></a><span class="piaotab1-pic" style="display:none;" onclick="show('pop','http://v.ku6vms.com/phpvms/player/html/vid/dS42IJqurdXXmHDh/style/gRiQ5K9giiL4EUzq/')"><a href="javascript:;"></a></span></li>
+  </ul>
+</div>
+<div id="pop" class="pop" style="display:none">
+    <div class="pop_head"> <a href="javascript:void(0);" onclick="hide('pop') ">关闭</a> </div>
+    <div id="spw"></div>
+    </div>
+<style type="text/css">
+    .highlight{color: #fff;background: #f4cd4c;}
+</style>
+<script src="js/jquery-1.11.2.min.js"  type="text/javascript"></script>
+<script src="js/downtime.js-0"  type="text/javascript"></script>
+<script type="text/javascript">
+   
+    $(function(){
+	var listWrap=$('.vediomainsp').find('p');
+	listWrap.mouseenter(function(){
+		var meEl=$(this);
+		meEl.find('.vediomainsptitle').hide();
+		meEl.find('.vediomainspnr').show(); 
+	});
+	listWrap.mouseleave(function(){
+		var meEl=$(this);
+		meEl.find('.vediomainsptitle').show();
+		meEl.find('.vediomainspnr').hide(); 
+	});
+	 
+});
+ 
+function show(o,url){
+ var o = document.getElementById(o);
+ var spw=document.getElementById("spw");
+ 
+ spw.innerHTML='<EMBED id="sp" name="fsVideo" width="700"'+
+'height="525" align="middle" src="'+url+'" '+
+'type="application/x-shockwave-flash" flashvars="auto=1" allowfullscreen="true" '+
+'allowscriptaccess="always" quality="high">'+
+'</EMBED>';
+ o.style.display = "";
+}
+function hide(o){
+ var o = document.getElementById(o);
+ o.style.display = "none";
+ //window.location.reload();
+ var spw=document.getElementById("spw"),
+     sp=document.getElementById("sp");
+     spw.removeChild(sp);
+}
+
+</script>
+<script type="text/javascript">
+
+	//右侧咨询窗 浮层 效果
+	var piaoTabEl=$('.piaotab');
+	piaoTabEl.find('.piaotabn2').mouseenter(function(){
+		$(this).find('.piaotab1-pic').show();
+	}).mouseleave(function(){
+		$(this).find('.piaotab1-pic').hide();
+	});
+	piaoTabEl.find('.piaotabn1').mouseenter(function(){
+		$(this).find('.piaotab1-pic1').show();
+	}).mouseleave(function(){
+		$(this).find('.piaotab1-pic1').hide();
+	});
+	 
+</script>
+<script type="text/javascript">
+$(function(){
+   var topNavWrap=$('.xiaobaotitle'),
+	   xiaobaoAtplEl=topNavWrap.find('a').filter('.xiaobao-atpl');
+	var topNavWrap=$('.xiaobaotitle');
+	xiaobaoAtplEl.click(function(){
+		xiaobaoAtplEl.removeClass('ton');
+		$(this).addClass('ton');
+	});
+	var xuanxiangkatit=$('.xuanxiangkatit');
+	xuanxiangkatit.find('a').click(function(evt){
+		if($('html,body').scrollTop() < 550){
+			$('html,body').animate({ scrollTop: '550px' },500);
+			xiaobaoAtplEl.removeClass('ton');
+			xiaobaoAtplEl.eq(1).addClass('ton');
+			evt.preventDefault();
+		}
+	});
+//下载模块去掉
+//	var botMobDown=$('#bot-mob-down'),
+//		tanchuk=$('#tanchuk');
+//	botMobDown.click(function(evt){
+//		tanchuk.show();
+//		evt.stopPropagation();
+//	});
+//
+//	$(window).scroll(function(){
+//		var winScrollHeight=$(window).scrollTop(),
+//			botMobDownOffsetHeight=botMobDown.offset().top,
+//			botMobDownTop=botMobDownOffsetHeight - winScrollHeight;
+//		//console.info(tanchukTop);
+//		if(botMobDownTop < 160){
+//			tanchuk.css('top','3360px')
+//		}else{
+//			tanchuk.css('top','3220px')
+//		}
+//	});
+
+	var mntyEl=$('.mnty'),
+      mntyMask=$('.mnty-mask'),
+      imgErr = $('.imgcode-err', mntyEl),//图形验证码失效
+      step1El = $('.mnty-step-1',mntyEl),//页面1
+      step2El = $('.mnty-step-2',mntyEl),//页面2
+	  mntyHeadClose=$('.mnty_head_close',mntyEl),
+	  btnReget = $('.code-reget', mntyEl),//重新获取验证码
+	  btnGetCode = $('.f-getcode', mntyEl),//获取验证短信
+      captchaValEl=$('.captcha-val',mntyEl), //验证码输入框
+      mobileEl = $('.mobile-val',mntyEl), //手机号
+      codeEl = $('.code-val',mntyEl), //手机验证码
+      captchaImgEl=$('.captcha-img',mntyEl), //验证码图
+      seconds = 60,//60秒内不能重新获取
+      timer = null;
+  var captchaKey=0;
+  var updateCaptchaKey=function(){
+        var now=new Date();
+        captchaKey=Math.ceil(now.getTime()/1000);
+        captchaImgEl.attr('src','/DemoAccount/GetCodeImg?key='+captchaKey);
+    };
+	topNavWrap.find('.experience-btn').click(function(evt){
+		updateCaptchaKey();
+		mntyEl.show();
+		evt.preventDefault();
+		evt.stopPropagation();
+	});
+	//点击图片更换地址
+	mntyEl.on('click','.change-captcha-l,.captcha-img',function(evt){
+	    updateCaptchaKey();
+	    evt.preventDefault();
+	});
+	//点击按钮进入体验
+  mntyEl.on('keydown','.captcha-val',function(eve){
+    if(eve.keyCode == 13){
+      mntyEl.find('.f-sub').trigger('click');
+    }
+  });
+  var getCode = function(){
+	  var captchaVal=$.trim(captchaValEl.val());
+      var mobileVal=$.trim(mobileEl.val());
+	  $.ajax({
+          "type":"post",
+          "dataType":"json",
+          "url":"DemoAccount/BuildValidateCode",
+            "data":{
+                "key":captchaKey,
+                "imgcode":captchaVal,
+                "mobile":mobileVal
+            },
+            "success":function(responseData){
+                if(responseData.success) {
+                	step1El.hide();
+                	$('.mnty-mobile', step2El).html(mobileVal);
+                	imgErr.hide();
+                	btnReget.addClass('grey');
+                	btnGetCode.addClass('grey');
+                	timer = setInterval(function(){
+                		seconds--;
+	                	if(seconds>0) {
+	                		btnReget.html('重新发送(' + seconds +')');
+	                		btnGetCode.val('获取验证短信(' + seconds + ')');
+		                } else {
+		                	seconds = 60;
+		                	btnReget.html('重新发送').removeClass('grey');
+		                	btnGetCode.val('获取验证短信').removeClass('grey');
+		                	clearInterval(timer);
+		                	timer = null;
+			            }
+	                }, 1000);
+                	step2El.show();
+		        } else {
+					switch($.trim(responseData.error)) {
+					case '001':
+						alert('手机格式不正确');
+						break;
+					case '004':
+						alert('两次获取验证码的间隔不能少于1分钟');
+						break;
+					case '005':
+						if(step1El.css('display')!='none') {
+							alert('图形验证码不正确');
+						} else {
+							step1El.show();
+							step2El.hide();
+							updateCaptchaKey();
+							imgErr.show();
+							captchaValEl.val('').get(0).focus();
+						}
+						break;
+					}
+			    }
+            },
+            "error":function(){
+                alert('网络繁忙，请重试。');
+            }
+      });
+  };
+	mntyEl.on('click','.f-sub',function(evt){
+      var codeVal=$.trim(codeEl.val());
+      var mobileVal=$.trim(mobileEl.val());
+      if(codeVal.length>0&&codeVal!="请输入验证码"){
+          $.ajax({
+              "type":"post",
+              "dataType":"json",
+              "url":"/DemoAccount/LoginEx",
+                "data":{
+                    "key":captchaKey,
+                    "validateCode":codeVal,
+                    "mobile":mobileVal,
+                    "source":3
+                },
+                "success":function(responseData){
+                    var gotoUrl;
+                    if(responseData.success){
+                        gotoUrl=responseData.data;
+                        location.href="index.htm"/*tpa=http://www.fxiaoke.com/*/+gotoUrl;
+                    }else{
+                        alert('登录失败，'+responseData.error);
+                    }
+                },
+                "error":function(){
+                    alert('网络繁忙，请重试。');
+                }
+          });
+      }
+      evt.preventDefault();
+  }).on('click', '.f-getcode', function(){
+	  if(!btnGetCode.hasClass('grey')) {
+		  var captchaVal=$.trim(captchaValEl.val());
+	      var mobileVal=$.trim(mobileEl.val());
+	      if(mobileVal.length>0&&mobileVal!='请输入手机号码'&&captchaVal.length>0&&captchaVal!="请输入右侧字符"){
+	    	  getCode();
+	      }
+      }
+	}).on('click', '.code-reget', function(){
+		if(!btnReget.hasClass('grey')) {
+			getCode();
+		}
+	}).on('blur','.captcha-val',function(){
+	         var captchaVal=$.trim(captchaValEl.val());
+	         if(captchaVal.length==0){
+	         	captchaValEl.val('请输入右侧字符');
+			     captchaValEl.css('color','#C8C8C8');
+	         }
+	}).on('click','.captcha-val',function(){
+	         var captchaVal=$.trim(captchaValEl.val());
+	         if(captchaVal=='请输入右侧字符'){
+	           captchaValEl.val('');
+			       captchaValEl.css('color','#000000');
+	           }
+	}).on('blur','.mobile-val',function(){
+        var mobileVal=$.trim(mobileEl.val());
+        if(mobileVal.length==0){
+        	mobileEl.val('请输入手机号码');
+        	mobileEl.css('color','#C8C8C8');
+        }
+	}).on('click','.mobile-val',function(){
+	        var mobileVal=$.trim(mobileEl.val());
+	        if(mobileVal=='请输入手机号码'){
+	        	mobileEl.val('');
+			    mobileEl.css('color','#000000');
+	        }
+	}).on('blur','.code-val',function(){
+        var codeVal=$.trim(codeEl.val());
+        if(codeVal.length==0){
+        	codeEl.val('请输入验证码');
+        	codeEl.css('color','#C8C8C8');
+        }
+	}).on('click','.code-val',function(){
+	        var codeVal=$.trim(codeEl.val());
+	        if(codeVal=='请输入验证码'){
+	        	codeEl.val('');
+			    codeEl.css('color','#000000');
+	        }
+	}).on('click', '.code-change', function(){
+		step1El.show();
+		step2El.hide();
+		updateCaptchaKey();
+		mobileEl.val('').get(0).focus();
+		captchaValEl.val('请输入右侧字符');
+	});
+	mntyHeadClose.click(function(evt){
+		mntyEl.hide();
+		evt.preventDefault();
+	});
+//	$(document).click(function(){
+//		mntyEl.hide();
+//		tanchuk.hide();
+//	});
+	mntyEl.click(function(evt){
+		evt.stopPropagation();
+	});
+});
+</script> 
+<script type="text/javascript">
+
+	//右侧咨询窗 浮层 效果
+	var piaoTabEl=$('.piaotab');
+	piaoTabEl.find('.piaotabn2').mouseenter(function(){
+		$(this).find('.piaotab1-pic').show();
+	}).mouseleave(function(){
+		$(this).find('.piaotab1-pic').hide();
+	});
+	piaoTabEl.find('.piaotabn1').mouseenter(function(){
+		$(this).find('.piaotab1-pic1').show();
+	}).mouseleave(function(){
+		$(this).find('.piaotab1-pic1').hide();
+	});
+	 
+</script>
+<script type="text/javascript">
+function alignHeight(eleA,eleB){
+  if(!document.getElementById(eleA)){return false;}
+  if(!document.getElementById(eleB)){return false;}
+  var heightA = document.getElementById(eleA).clientHeight;
+  var heightB = document.getElementById(eleB).clientHeight;
+  if(heightA > heightB){
+    document.getElementById(eleB).style.height = heightA + "px";
+    document.getElementById(eleA).style.height = heightA + "px";
+  }else{
+    document.getElementById(eleA).style.height = heightB + "px";
+    document.getElementById(eleB).style.height = heightB + "px";
+  }
+}
+window.onload =
+function z_align(){
+  alignHeight("conl","conr"); //只需将需要对齐的两个模块的id写在此处即可。
+//alignHeight("AAA","BBB") 可依此连续多组。
+}
+</script>
+
+<!--<script type="text/javascript">
+    var randomNum=new Date()/1;
+    document.write(unescape("%3Cscript src='./statistics/common.js?v="+randomNum+"' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff57c6a7902fa9e2e25e18c371c811745' type='text/javascript'%3E%3C/script%3E"));
+</script>
+脉可寻公司 测试广告平台
+<script type="text/javascript" src="../a.ad7.com/js/i.js-uid=huy" id="_mutmzc"></script> -->
+</body>
+</html>
